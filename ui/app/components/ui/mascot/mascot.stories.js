@@ -2,7 +2,6 @@ import EventEmitter from 'events'
 import React, { useState } from 'react'
 import Button from '../button'
 import ButtonGroup from '../button-group'
-import Mascot from './mascot.component'
 
 const animationEventEmitter = new EventEmitter()
 
@@ -47,14 +46,7 @@ export function Demo () {
         }
       }}
     >
-      <Mascot
-        animationEventEmitter={animationEventEmitter}
-        width="120"
-        height="120"
-        followMouse={followMouseMode}
-        lookAtTarget={clickedTarget}
-        lookAtDirection={lookAtDirection}
-      />
+      <img src="/images/icon-128.png" />
       <div style={buttonStyle}>
         <ButtonGroup
           style={{ width: '300px', flexFlow: 'column' }}

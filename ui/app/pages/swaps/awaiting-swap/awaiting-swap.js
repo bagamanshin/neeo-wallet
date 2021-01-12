@@ -17,7 +17,6 @@ import {
 } from '../../../ducks/swaps/swaps'
 import { useTransactionTimeRemaining } from '../../../hooks/useTransactionTimeRemaining'
 import { usePrevious } from '../../../hooks/usePrevious'
-import Mascot from '../../../components/ui/mascot'
 import PulseLoader from '../../../components/ui/pulse-loader'
 import { getBlockExplorerUrlForTx, getStatusKey } from '../../../helpers/utils/transactions.util'
 import CountdownTimer from '../countdown-timer'
@@ -222,11 +221,7 @@ export default function AwaitingSwap ({
     <div className="awaiting-swap">
       <div className="awaiting-swap__content">
         {!(swapComplete || errorKey) && (
-          <Mascot
-            animationEventEmitter={animationEventEmitter.current}
-            width="90"
-            height="90"
-          />
+          <img src="/images/icon-128.png" />
         )}
         <div className="awaiting-swap__status-image">
           {statusImage}

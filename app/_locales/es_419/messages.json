@@ -30,7 +30,7 @@
     "message": "registro de actividad"
   },
   "addAcquiredTokens": {
-    "message": "Agrega los tokens adquiridos con MetaMask"
+    "message": "Agrega los tokens adquiridos con Neeo Wallet"
   },
   "addAlias": {
     "message": "Agregar alias"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "Neeo Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Temporizador de cierre de sesión automático (minutos)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Configura tu tiempo de inactividad en minutos para controlar cuándo MetaMask cerrará tu sesión de forma automática"
+    "message": "Configura tu tiempo de inactividad en minutos para controlar cuándo Neeo Wallet cerrará tu sesión de forma automática"
   },
   "average": {
     "message": "Promedio"
@@ -113,7 +113,7 @@
     "message": "Volver a Todos"
   },
   "backupApprovalInfo": {
-    "message": "Este código secreto es necesario para recuperar tu billetera en caso de que pierdas tu dispositivo, olvides la contraseña, tengas que reinstalar MetaMask o quieras acceder a tu billetera desde otro dispositivo."
+    "message": "Este código secreto es necesario para recuperar tu billetera en caso de que pierdas tu dispositivo, olvides la contraseña, tengas que reinstalar Neeo Wallet o quieras acceder a tu billetera desde otro dispositivo."
   },
   "backupApprovalNotice": {
     "message": "Haz una copia de seguridad de tu código de recuperación secreto para mantener la seguridad de la billetera y los fondos."
@@ -144,7 +144,7 @@
     "message": "Tu navegador no es compatible…"
   },
   "builtInCalifornia": {
-    "message": "MetaMask se diseñó y creó en California."
+    "message": "Neeo Wallet  se diseñó y creó en California."
   },
   "buyCoinSwitch": {
     "message": "Comprar en CoinSwitch"
@@ -156,7 +156,7 @@
     "message": "Comprar ETH con Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre te permite utilizar una tarjeta de crédito para depositar ETH directamente en su cuenta de MetaMask."
+    "message": "Wyre te permite utilizar una tarjeta de crédito para depositar ETH directamente en su cuenta de Neeo Wallet."
   },
   "cancel": {
     "message": "Cancelar"
@@ -177,7 +177,7 @@
     "message": "Chart está disponible únicamente en las redes de Ethereum."
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Debes utilizar MetaMask en Google Chrome para poder conectarte a tu billetera de hardware."
+    "message": "Debes utilizar Neeo Wallet en Google Chrome para poder conectarte a tu billetera de hardware."
   },
   "clickToRevealSeed": {
     "message": "Haz clic aquí para mostrar las palabras secretas"
@@ -360,16 +360,16 @@
     "message": "Nunca compartas tu frase con nadie."
   },
   "endOfFlowMessage5": {
-    "message": "¡Cuidado con las suplantaciones de identidad! MetaMask no te pedirá nunca tu frase de inicialización de forma espontánea."
+    "message": "¡Cuidado con las suplantaciones de identidad! Neeo Wallet no te pedirá nunca tu frase de inicialización de forma espontánea."
   },
   "endOfFlowMessage6": {
     "message": "Si necesitas otra copia de seguridad de tu frase de inicialización, puedes encontrarla en Configuración -> Seguridad."
   },
   "endOfFlowMessage7": {
-    "message": "Si tienes preguntas o ves algo sospechoso, envía un correo electrónico a support@metamask.io."
+    "message": "Si tienes preguntas o ves algo sospechoso, envía un correo electrónico a support@neeoico.com."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask no puede recuperar tu frase de inicialización. Obtén más información."
+    "message": "Neeo Wallet  no puede recuperar tu frase de inicialización. Obtén más información."
   },
   "endOfFlowMessage9": {
     "message": "Más información."
@@ -480,7 +480,7 @@
     "message": "Conectar una billetera de hardware"
   },
   "hardwareWalletsMsg": {
-    "message": "Selecciona la billetera de hardware que te gustaría utilizar con MetaMask"
+    "message": "Selecciona la billetera de hardware que te gustaría utilizar con Neeo Wallet"
   },
   "havingTroubleConnecting": {
     "message": "¿Problemas de conexión?"
@@ -509,7 +509,7 @@
     "message": "Importar cuenta"
   },
   "importAccountMsg": {
-    "message": "Las cuentas importadas no estarán asociadas a la frase de inicialización que se creó en un principio para tu cuenta de MetaMask. Obtén más información sobre las cuentas importadas"
+    "message": "Las cuentas importadas no estarán asociadas a la frase de inicialización que se creó en un principio para tu cuenta de Neeo Wallet. Obtén más información sobre las cuentas importadas"
   },
   "importAccountSeedPhrase": {
     "message": "Importar una cuenta con frase de inicialización"
@@ -616,7 +616,7 @@
     "message": "Te estamos conectando a Ethereum y a la web descentralizada."
   },
   "metamaskVersion": {
-    "message": "Versión de MetaMask"
+    "message": "Versión de Neeo Wallet"
   },
   "mobileSyncText": {
     "message": "Ingresa tu contraseña para confirmar que eres tú."
@@ -631,10 +631,10 @@
     "message": "Las cuentas de mi billetera"
   },
   "myWalletAccountsDescription": {
-    "message": "Todas tus cuentas creadas en MetaMask se agregarán automáticamente a esta sección."
+    "message": "Todas tus cuentas creadas en Neeo Wallet se agregarán automáticamente a esta sección."
   },
   "needEtherInWallet": {
-    "message": "Necesitarás tener Ethers en tu billetera para poder interactuar con aplicaciones descentralizadas a través de MetaMask."
+    "message": "Necesitarás tener Ethers en tu billetera para poder interactuar con aplicaciones descentralizadas a través de Neeo Wallet."
   },
   "needImportFile": {
     "message": "Selecciona un archivo para importar.",
@@ -678,7 +678,7 @@
     "message": "Nueva contraseña (mín. 8 caracteres)"
   },
   "newToMetaMask": {
-    "message": "¿Nuevo en MetaMask?"
+    "message": "¿Nuevo en Neeo Wallet?"
   },
   "newTotal": {
     "message": "Nuevo total"
@@ -741,7 +741,7 @@
     "message": "Participar en MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Participa en MetaMetrics para ayudarnos a mejorar MetaMask"
+    "message": "Participa en MetaMetrics para ayudarnos a mejorar Neeo Wallet"
   },
   "password": {
     "message": "Contraseña"
@@ -788,10 +788,10 @@
     "message": "¡Protege tus claves!"
   },
   "protectYourKeysMessage1": {
-    "message": "Ten cuidado con tu frase de inicialización: hay informes sobre sitios web que intentan hacerse pasar por MetaMask. ¡MetaMask no te pedirá nunca tu frase de inicialización!"
+    "message": "Ten cuidado con tu frase de inicialización: hay informes sobre sitios web que intentan hacerse pasar por Neeo Wallet. ¡Neeo Wallet no te pedirá nunca tu frase de inicialización!"
   },
   "protectYourKeysMessage2": {
-    "message": "Mantén tu frase segura. Si notas algo raro o si no está seguro sobre si usar algún sitio web en específico, envíanos un correo electrónico a support@metamask.io"
+    "message": "Mantén tu frase segura. Si notas algo raro o si no está seguro sobre si usar algún sitio web en específico, envíanos un correo electrónico a support@neeoico.com"
   },
   "queue": {
     "message": "Cola"
@@ -938,7 +938,7 @@
     "message": "Selecciona una cuenta"
   },
   "selectAnAccountHelp": {
-    "message": "Selecciona la cuenta que deseas ver en MetaMask"
+    "message": "Selecciona la cuenta que deseas ver en Neeo Wallet"
   },
   "selectCurrency": {
     "message": "Seleccionar moneda"
@@ -1088,16 +1088,16 @@
     "message": "Asegúrate de que nadie esté mirando tu pantalla cuando escanees este código"
   },
   "syncWithMobileComplete": {
-    "message": "Tus datos se han sincronizado con éxito. ¡Disfruta de la aplicación móvil de MetaMask!"
+    "message": "Tus datos se han sincronizado con éxito. ¡Disfruta de la aplicación móvil de Neeo Wallet!"
   },
   "syncWithMobileDesc": {
-    "message": "Puedes sincronizar tus cuentas e información con tu dispositivo móvil. Abre la aplicación de MetaMask para dispositivos móviles, dirígete a \"Configuración\" y selecciona \"Sincronizar desde una extensión del navegador\""
+    "message": "Puedes sincronizar tus cuentas e información con tu dispositivo móvil. Abre la aplicación de Neeo Wallet para dispositivos móviles, dirígete a \"Configuración\" y selecciona \"Sincronizar desde una extensión del navegador\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Si estás abriendo la aplicación de MetaMask para dispositivos móviles por primera vez, sigue los pasos indicados en tu teléfono."
+    "message": "Si estás abriendo la aplicación de Neeo Wallet para dispositivos móviles por primera vez, sigue los pasos indicados en tu teléfono."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Escanea este código con la aplicación móvil de MetaMask"
+    "message": "Escanea este código con la aplicación móvil de Neeo Wallet"
   },
   "syncWithMobileTitle": {
     "message": "Sincronizar con un dispositivo móvil"
@@ -1185,7 +1185,7 @@
     "message": "Reintentar"
   },
   "typePassword": {
-    "message": "Ingresa tu contraseña de MetaMask"
+    "message": "Ingresa tu contraseña de Neeo Wallet"
   },
   "unapproved": {
     "message": "Sin autorización"
@@ -1248,7 +1248,7 @@
     "message": "Inicialización de la billetera"
   },
   "welcome": {
-    "message": "Bienvenido a MetaMask"
+    "message": "Bienvenido a Neeo Wallet"
   },
   "welcomeBack": {
     "message": "¡Hola de nuevo!"

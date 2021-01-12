@@ -27,7 +27,7 @@
     "message": "アクティビティログ"
   },
   "addAcquiredTokens": {
-    "message": "MetaMaskで獲得したトークンを追加する"
+    "message": "Neeo Walletで獲得したトークンを追加する"
   },
   "addAlias": {
     "message": "エイリアスを追加"
@@ -70,7 +70,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "Neeo Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -98,7 +98,7 @@
     "message": "自動ログアウト(分)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "MetaMaskが自動的にログアウトするまでのアイドル時間を分単位で設定します。"
+    "message": "Neeo Walletが自動的にログアウトするまでのアイドル時間を分単位で設定します。"
   },
   "average": {
     "message": "平均"
@@ -182,7 +182,7 @@
     "message": "Etherを直接入金"
   },
   "directDepositEtherExplainer": {
-    "message": "既にEtherをお持ちなら、MetaMaskの新しいウォレットにEtherを送信することができます。"
+    "message": "既にEtherをお持ちなら、Neeo Walletの新しいウォレットにEtherを送信することができます。"
   },
   "done": {
     "message": "完了"
@@ -250,7 +250,7 @@
     "message": "アカウントのインポート"
   },
   "importAccountMsg": {
-    "message": "追加したアカウントはMetaMaskのアカウントパスフレーズとは関連付けられません。インポートしたアカウントについての詳細は"
+    "message": "追加したアカウントはNeeo Walletのアカウントパスフレーズとは関連付けられません。インポートしたアカウントについての詳細は"
   },
   "imported": {
     "message": "インポート完了",
@@ -306,7 +306,7 @@
     "message": "マイアカウント"
   },
   "needEtherInWallet": {
-    "message": "MetaMaskで分散型アプリケーションを使用するためには、このウォレットにEtherが必要です。"
+    "message": "Neeo Walletで分散型アプリケーションを使用するためには、このウォレットにEtherが必要です。"
   },
   "needImportFile": {
     "message": "インポートするファイルを選択してください。",
@@ -482,7 +482,7 @@
     "message": "ウォレットのパスフレーズ"
   },
   "welcome": {
-    "message": "MetaMask ベータ版へようこそ!"
+    "message": "Neeo Wallet  ベータ版へようこそ!"
   },
   "welcomeBack": {
     "message": "おかえりなさい!"

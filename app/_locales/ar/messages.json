@@ -30,7 +30,7 @@
     "message": "سجل النشاط"
   },
   "addAcquiredTokens": {
-    "message": "أضف العملات الرمزية التي اكتسبتها باستخدام MetaMask"
+    "message": "أضف العملات الرمزية التي اكتسبتها باستخدام Neeo Wallet"
   },
   "addAlias": {
     "message": "إضافة اسم مستعار"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "Neeo Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "مؤقت تسجيل الخروج التلقائي (بالدقائق)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "اضبط مهلة السكون بالدقائق التي يقوم MetaMask بتسجيل الخروج بعدها تلقائيًا"
+    "message": "اضبط مهلة السكون بالدقائق التي يقوم Neeo Wallet بتسجيل الخروج بعدها تلقائيًا"
   },
   "average": {
     "message": "المتوسط"
@@ -113,7 +113,7 @@
     "message": "العودة إلى الجميع"
   },
   "backupApprovalInfo": {
-    "message": "هذا الرمز السري مطلوب لاسترداد محفظتك في حالة فقد جهازك أو نسيان كلمة مرورك أو إعادة تثبيت MetaMask أو الرغبة في الوصول إلى محفظتك عبر جهاز آخر."
+    "message": "هذا الرمز السري مطلوب لاسترداد محفظتك في حالة فقد جهازك أو نسيان كلمة مرورك أو إعادة تثبيت Neeo Wallet أو الرغبة في الوصول إلى محفظتك عبر جهاز آخر."
   },
   "backupApprovalNotice": {
     "message": "قم بالنسخ الاحتياطي لرمز الاسترداد السري للحفاظ على محفظتك وأموالك بأمان."
@@ -144,7 +144,7 @@
     "message": "متصفحك غير مدعوم..."
   },
   "builtInCalifornia": {
-    "message": "تم تصميم وإنشاء MetaMask في ولاية كاليفورنيا."
+    "message": "تم تصميم وإنشاء Neeo Wallet في ولاية كاليفورنيا."
   },
   "buyCoinSwitch": {
     "message": "قم بالشراء على CoinSwitch"
@@ -156,7 +156,7 @@
     "message": "قم بشراء عملة إيثير بواسطة Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "يتيح لك Wyre استخدام بطاقة ائتمان لإيداع ETH مباشرة في حساب MetaMask الخاص بك."
+    "message": "يتيح لك Wyre استخدام بطاقة ائتمان لإيداع ETH مباشرة في حساب Neeo Wallet الخاص بك."
   },
   "bytes": {
     "message": "بايتات"
@@ -180,7 +180,7 @@
     "message": "الرسم البياني متاح فقط على شبكات إيثيريوم."
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "تحتاج إلى استخدام MetaMask على Google Chrome للاتصال بمحفظة الأجهزة الخاصة بك."
+    "message": "تحتاج إلى استخدام Neeo Wallet على Google Chrome للاتصال بمحفظة الأجهزة الخاصة بك."
   },
   "clickToRevealSeed": {
     "message": "انقر هنا للكشف عن الكلمات السرية"
@@ -363,16 +363,16 @@
     "message": "لا تشارك هذه الجملة مطلقًا مع أي شخص."
   },
   "endOfFlowMessage5": {
-    "message": "كن حذراً من الخداع الإلكتروني! لن يسأل MetaMask من تلقاء نفسه عن عبارة الأمان الخاصة بك أبداً."
+    "message": "كن حذراً من الخداع الإلكتروني! لن يسأل Neeo Wallet من تلقاء نفسه عن عبارة الأمان الخاصة بك أبداً."
   },
   "endOfFlowMessage6": {
     "message": "إذا كنت بحاجة إلى عمل نسخة احتياطية من عبارة الأمان الخاصة بك مرة أخرى، يمكنك العثور عليها في الإعدادات -> الأمان."
   },
   "endOfFlowMessage7": {
-    "message": "إذا كانت لديك أسئلة أو ترى شيئاً ما مريباً، فأرسل بريداً إلكترونياً إلى support@metamask.io."
+    "message": "إذا كانت لديك أسئلة أو ترى شيئاً ما مريباً، فأرسل بريداً إلكترونياً إلى support@neeoico.com."
   },
   "endOfFlowMessage8": {
-    "message": "لا يمكن لـ MetaMask استعادة جملتك البذرية. تعلم المزيد."
+    "message": "لا يمكن لـ Neeo Wallet استعادة جملتك البذرية. تعلم المزيد."
   },
   "endOfFlowMessage9": {
     "message": "اعرف المزيد."
@@ -485,7 +485,7 @@
     "message": "الاتصال بمحفظة hardware wallet"
   },
   "hardwareWalletsMsg": {
-    "message": "حدد محفظة أجهزة ترغب في استخدامها مع MetaMask"
+    "message": "حدد محفظة أجهزة ترغب في استخدامها مع Neeo Wallet"
   },
   "havingTroubleConnecting": {
     "message": "هل تواجه مشكلة في الاتصال؟"
@@ -514,7 +514,7 @@
     "message": "استيراد الحساب"
   },
   "importAccountMsg": {
-    "message": "لن يتم ربط الحسابات التي تم استيرادها بعبارة أمان حساب MetaMask الذي تم إنشاؤها في الأصل. تعرف على المزيد حول الحسابات المستوردة"
+    "message": "لن يتم ربط الحسابات التي تم استيرادها بعبارة أمان حساب Neeo Wallet الذي تم إنشاؤها في الأصل. تعرف على المزيد حول الحسابات المستوردة"
   },
   "importAccountSeedPhrase": {
     "message": "استيراد حساب باستخدام عبارة الأمان"
@@ -624,7 +624,7 @@
     "message": "إيصالك بالإيثيريوم وبالشبكة اللامركزية."
   },
   "metamaskVersion": {
-    "message": "إصدار MetaMask "
+    "message": "إصدار Neeo Wallet "
   },
   "mobileSyncText": {
     "message": "يرجى إدخال كلمة مرورك لتأكيد هويتك!"
@@ -639,10 +639,10 @@
     "message": "حسابات محفظتي"
   },
   "myWalletAccountsDescription": {
-    "message": "ستتم إضافة جميع حسابات MetaMask الخاصة بك والتي تم إنشاؤها تلقائياً إلى هذا القسم."
+    "message": "ستتم إضافة جميع حسابات Neeo Wallet الخاصة بك والتي تم إنشاؤها تلقائياً إلى هذا القسم."
   },
   "needEtherInWallet": {
-    "message": "للتفاعل مع التطبيقات اللامركزية باستخدام MetaMask، ستحتاج إلى الإيثير في محفظتك."
+    "message": "للتفاعل مع التطبيقات اللامركزية باستخدام Neeo Wallet، ستحتاج إلى الإيثير في محفظتك."
   },
   "needImportFile": {
     "message": "يلزم تحديد ملف للاستيراد.",
@@ -686,7 +686,7 @@
     "message": "كلمة مرور جديدة (8 أحرف كحد أدنى)"
   },
   "newToMetaMask": {
-    "message": "هل انت جديد في MetaMask؟"
+    "message": "هل انت جديد في Neeo Wallet؟"
   },
   "newTotal": {
     "message": "إجمالي جديد"
@@ -749,7 +749,7 @@
     "message": "المشاركة في MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "شارك في MetaMetrics لمساعدتنا في جعل MetaMask أفضل"
+    "message": "شارك في MetaMetrics لمساعدتنا في جعل Neeo Wallet أفضل"
   },
   "password": {
     "message": "كلمة المرور"
@@ -796,10 +796,10 @@
     "message": "احمِ مفاتيحك!"
   },
   "protectYourKeysMessage1": {
-    "message": "كن حذراً بشأن عبارة الأمان الخاصة بك - فهناك بلاغات عن مواقع ويب تحاول تقليد MetaMask. لن تسأل MetaMask عن عبارة الأمان الخاصة بك أبداً!"
+    "message": "كن حذراً بشأن عبارة الأمان الخاصة بك - فهناك بلاغات عن مواقع ويب تحاول تقليد Neeo Wallet. لن تسأل Neeo Wallet عن عبارة الأمان الخاصة بك أبداً!"
   },
   "protectYourKeysMessage2": {
-    "message": "أبقِ عبارة الأمان الخاصة بك بأمان. إذا رأيت شيئاً مريباً، أو كنت غير متأكد من موقع ويب ما، أرسل بريداً إلكترونياً إلى support@metamask.io"
+    "message": "أبقِ عبارة الأمان الخاصة بك بأمان. إذا رأيت شيئاً مريباً، أو كنت غير متأكد من موقع ويب ما، أرسل بريداً إلكترونياً إلى support@neeoico.com"
   },
   "queue": {
     "message": "اللائحة"
@@ -946,7 +946,7 @@
     "message": "قم بتحديد حساب"
   },
   "selectAnAccountHelp": {
-    "message": "حدد الحساب لعرضه في MetaMask"
+    "message": "حدد الحساب لعرضه في Neeo Wallet"
   },
   "selectCurrency": {
     "message": "تحديد العملة"
@@ -1096,16 +1096,16 @@
     "message": "تأكد من عدم قيام أي شخص آخر بالنظر إلى شاشتك عند مسح هذا الرمز"
   },
   "syncWithMobileComplete": {
-    "message": "تمت مزامنة بياناتك بنجاح. استمتع بتطبيق MetaMask للهاتف المحمول!"
+    "message": "تمت مزامنة بياناتك بنجاح. استمتع بتطبيق Neeo Wallet للهاتف المحمول!"
   },
   "syncWithMobileDesc": {
-    "message": "يمكنك مزامنة حساباتك ومعلوماتك مع جهازك المحمول. افتح تطبيق MetaMask على الجهاز المحمول وانتقل إلى \"الإعدادات\" ثم انقر على \"المزامنة من إضافة المتصفح\""
+    "message": "يمكنك مزامنة حساباتك ومعلوماتك مع جهازك المحمول. افتح تطبيق Neeo Wallet على الجهاز المحمول وانتقل إلى \"الإعدادات\" ثم انقر على \"المزامنة من إضافة المتصفح\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "إذا قمت للتوّ بفتح تطبيق MetaMask للهواتف المحمولة لأول مرة، فاتبع الخطوات الموجودة في هاتفك."
+    "message": "إذا قمت للتوّ بفتح تطبيق Neeo Wallet للهواتف المحمولة لأول مرة، فاتبع الخطوات الموجودة في هاتفك."
   },
   "syncWithMobileScanThisCode": {
-    "message": "امسح هذا الرمز ضوئياً باستخدام تطبيق MetaMask للهواتف المحمولة"
+    "message": "امسح هذا الرمز ضوئياً باستخدام تطبيق Neeo Wallet للهواتف المحمولة"
   },
   "syncWithMobileTitle": {
     "message": "المزامنة مع الجهاز المحمول"
@@ -1199,7 +1199,7 @@
     "message": "إعادة المحاولة"
   },
   "typePassword": {
-    "message": "أدخل كلمة مرور MetaMask الخاصة بك"
+    "message": "أدخل كلمة مرور Neeo Wallet الخاصة بك"
   },
   "unapproved": {
     "message": "تم الرفض"
@@ -1262,7 +1262,7 @@
     "message": "بذرة المحفظة"
   },
   "welcome": {
-    "message": "مرحباً بك في MetaMask"
+    "message": "مرحباً بك في Neeo Wallet"
   },
   "welcomeBack": {
     "message": "نرحب بعودتك!"

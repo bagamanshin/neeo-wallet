@@ -8,7 +8,6 @@ import classnames from 'classnames'
 import { navigateBackToBuildQuote, getFetchParams, getQuotesFetchStartTime } from '../../../ducks/swaps/swaps'
 import { I18nContext } from '../../../contexts/i18n'
 import { MetaMetricsContext } from '../../../contexts/metametrics.new'
-import Mascot from '../../../components/ui/mascot'
 import SwapsFooter from '../swaps-footer'
 import BackgroundAnimation from './background-animation'
 import AggregatorLogo from './aggregator-logo'
@@ -178,19 +177,7 @@ export default function LoadingSwapsQuotes ({
             className="loading-swaps-quotes__mascot-container"
             ref={mascotContainer}
           >
-            <Mascot
-              animationEventEmitter={animationEventEmitter.current}
-              width="90"
-              height="90"
-              followMouse={false}
-              lookAtTarget={
-                getMascotTarget(
-                  aggregatorNames[quoteCount],
-                  midPointTarget,
-                  aggregatorLocationMap,
-                )
-              }
-            />
+            <img src="/images/icon-128.png" />
           </div>
           {currentMascotContainer && midPointTarget && aggregatorNames.map((aggName) => (
             <div

@@ -30,7 +30,7 @@
     "message": "活动日志"
   },
   "addAcquiredTokens": {
-    "message": "在MetaMask上添加已用的代币"
+    "message": "在Neeo Wallet上添加已用的代币"
   },
   "addAlias": {
     "message": "添加别名"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "Neeo Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "自动注销计时器（分钟）"
   },
   "autoLockTimeLimitDescription": {
-    "message": "请设置 MetaMask 自动注销前的空闲时间（以分钟为单位）"
+    "message": "请设置 Neeo Wallet 自动注销前的空闲时间（以分钟为单位）"
   },
   "average": {
     "message": "平均值"
@@ -113,7 +113,7 @@
     "message": "恢复所有设置"
   },
   "backupApprovalInfo": {
-    "message": "如果不慎丢失个人设备，忘记密码，或者需要重新安装 MetaMask，亦或是需在另一台设备上打开钱包，请使用该保密码恢复个人钱包数据。"
+    "message": "如果不慎丢失个人设备，忘记密码，或者需要重新安装 Neeo Wallet，亦或是需在另一台设备上打开钱包，请使用该保密码恢复个人钱包数据。"
   },
   "backupApprovalNotice": {
     "message": "请备份您的私密恢复代码，保证个人钱包和资金安全。"
@@ -144,7 +144,7 @@
     "message": "您的浏览器不支持该功能…"
   },
   "builtInCalifornia": {
-    "message": "MetaMask在加利福尼亚设计和制造。"
+    "message": "Neeo Wallet在加利福尼亚设计和制造。"
   },
   "buyCoinSwitch": {
     "message": "在CoinSwitch上购买"
@@ -156,7 +156,7 @@
     "message": "使用 Wyre 购买 ETH"
   },
   "buyWithWyreDescription": {
-    "message": "您可以通过 Wyre 使用信用卡将 ETH 存入您的 MetaMask 账户。"
+    "message": "您可以通过 Wyre 使用信用卡将 ETH 存入您的 Neeo Wallet 账户。"
   },
   "bytes": {
     "message": "字节"
@@ -180,7 +180,7 @@
     "message": "聊天功能仅对以太坊网络开放。"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "您需要通过 Google Chrome 浏览器使用 MetaMask ，连接个人硬件钱包。"
+    "message": "您需要通过 Google Chrome 浏览器使用 Neeo Wallet ，连接个人硬件钱包。"
   },
   "clickToRevealSeed": {
     "message": "点击此处显示密语"
@@ -363,16 +363,16 @@
     "message": "绝不向任何分享该密语。"
   },
   "endOfFlowMessage5": {
-    "message": "谨防网络钓鱼！MetaMask 绝不会主动要求您提供个人种子密语。"
+    "message": "谨防网络钓鱼！Neeo Wallet 绝不会主动要求您提供个人种子密语。"
   },
   "endOfFlowMessage6": {
     "message": "如果您需要再次备份个人种子密语，请通过设置 -> 安全选项完成该操作。"
   },
   "endOfFlowMessage7": {
-    "message": "如果您仍存有疑问或发现任何可疑的地方，请发送电子邮件至 support@metamask.io 进行咨询。"
+    "message": "如果您仍存有疑问或发现任何可疑的地方，请发送电子邮件至 support@neeoico.com 进行咨询。"
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask 无法恢复您的种子密语。了解更多。"
+    "message": "Neeo Wallet  无法恢复您的种子密语。了解更多。"
   },
   "endOfFlowMessage9": {
     "message": "了解详情。"
@@ -483,7 +483,7 @@
     "message": "连接硬件钱包"
   },
   "hardwareWalletsMsg": {
-    "message": "请选择希望用于 MetaMask 的硬件钱包"
+    "message": "请选择希望用于 Neeo Wallet 的硬件钱包"
   },
   "havingTroubleConnecting": {
     "message": "连接出现问题？"
@@ -616,10 +616,10 @@
     "message": "消息"
   },
   "metamaskDescription": {
-    "message": "MetaMask is a secure identity vault for Ethereum."
+    "message": "Neeo Wallet  is a secure identity vault for Ethereum."
   },
   "metamaskVersion": {
-    "message": "MetaMask 版本"
+    "message": "Neeo Wallet  版本"
   },
   "mobileSyncText": {
     "message": "请输入密码确认个人身份！"
@@ -631,10 +631,10 @@
     "message": "我的钱包账户"
   },
   "myWalletAccountsDescription": {
-    "message": "所有已创建的 MetaMask 账户将自动添加到该部分。"
+    "message": "所有已创建的 Neeo Wallet 账户将自动添加到该部分。"
   },
   "needEtherInWallet": {
-    "message": "使用 MetaMask 与 DAPP 交互，需要你的钱包里有 Ether。"
+    "message": "使用 Neeo Wallet 与 DAPP 交互，需要你的钱包里有 Ether。"
   },
   "needImportFile": {
     "message": "必须选择导入一个文件。",
@@ -675,7 +675,7 @@
     "message": "新密码（至少 8 个字符）"
   },
   "newToMetaMask": {
-    "message": "新增至 MetaMask？"
+    "message": "新增至 Neeo Wallet？"
   },
   "newTotal": {
     "message": "新增合计"
@@ -738,7 +738,7 @@
     "message": "加入 MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "加入 MetaMetrics ，帮助我们改善 MetaMask 服务"
+    "message": "加入 MetaMetrics ，帮助我们改善 Neeo Wallet 服务"
   },
   "password": {
     "message": "密码"
@@ -785,10 +785,10 @@
     "message": "妥善保管您的密钥！"
   },
   "protectYourKeysMessage1": {
-    "message": "请注意个人种子密语安全。报告显示有多个网站企图伪造 MetaMask。MetaMask 绝不会要求您提供个人种子密语！"
+    "message": "请注意个人种子密语安全。报告显示有多个网站企图伪造 Neeo Wallet。Neeo Wallet 绝不会要求您提供个人种子密语！"
   },
   "protectYourKeysMessage2": {
-    "message": "请妥善保管您的密语。如果您发现任何可疑的地方，或无法确认网络安全性，请发送电子邮件至 support@metamask.io 进行咨询"
+    "message": "请妥善保管您的密语。如果您发现任何可疑的地方，或无法确认网络安全性，请发送电子邮件至 support@neeoico.com 进行咨询"
   },
   "queue": {
     "message": "队列"
@@ -935,7 +935,7 @@
     "message": "选择账户"
   },
   "selectAnAccountHelp": {
-    "message": "请通过 MetaMask 选择需要查看的账户"
+    "message": "请通过 Neeo Wallet 选择需要查看的账户"
   },
   "selectCurrency": {
     "message": "选择货币"
@@ -1085,16 +1085,16 @@
     "message": "扫描编码时，请确保身边无其他人正在查看您的显示页面"
   },
   "syncWithMobileComplete": {
-    "message": "您的数据已同步成功。尽情体验 MetaMask 应用程序！"
+    "message": "您的数据已同步成功。尽情体验 Neeo Wallet 应用程序！"
   },
   "syncWithMobileDesc": {
-    "message": "您可以使用个人移动设备同步个人账户与信息。打开 MetaMask 移动应用程序，进入“设置”选项，点击“通过浏览器扩展程序同步”"
+    "message": "您可以使用个人移动设备同步个人账户与信息。打开 Neeo Wallet 移动应用程序，进入“设置”选项，点击“通过浏览器扩展程序同步”"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "如果您是首次启用 MetaMask 移动应用程序，请通过个人手机完成如下操作。"
+    "message": "如果您是首次启用 Neeo Wallet 移动应用程序，请通过个人手机完成如下操作。"
   },
   "syncWithMobileScanThisCode": {
-    "message": "使用 MetaMask 应用程序扫描编码"
+    "message": "使用 Neeo Wallet 应用程序扫描编码"
   },
   "syncWithMobileTitle": {
     "message": "使用移动设备进行同步"
@@ -1248,7 +1248,7 @@
     "message": "钱包助记词"
   },
   "welcome": {
-    "message": "欢迎使用 MetaMask 测试版"
+    "message": "欢迎使用 Neeo Wallet 测试版"
   },
   "welcomeBack": {
     "message": "欢迎回来！"

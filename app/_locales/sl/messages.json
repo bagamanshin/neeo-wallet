@@ -30,7 +30,7 @@
     "message": "dnevnik dejavnosti"
   },
   "addAcquiredTokens": {
-    "message": "Dodaj žetone pridobljene z MetaMask"
+    "message": "Dodaj žetone pridobljene z Neeo Wallet"
   },
   "addAlias": {
     "message": "Dodaj vzdevek"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "Neeo Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Časovnik za samodejno odjavo (minute)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Nastavite, po koliko minutah mirovanja naj se MetaMask samodejno odjavi"
+    "message": "Nastavite, po koliko minutah mirovanja naj se Neeo Wallet samodejno odjavi"
   },
   "average": {
     "message": "Povprečje"
@@ -113,7 +113,7 @@
     "message": "Nazaj na vse"
   },
   "backupApprovalInfo": {
-    "message": "Ta skrivna koda je potrebna za obnovitev denarnice, če izgubite napravo, pozabite geslo, ponovno namestite MetaMask ali želite dostopati do denarnice v drugi napravi."
+    "message": "Ta skrivna koda je potrebna za obnovitev denarnice, če izgubite napravo, pozabite geslo, ponovno namestite Neeo Wallet ali želite dostopati do denarnice v drugi napravi."
   },
   "backupApprovalNotice": {
     "message": "Varnostno kopirajte kodo Secret Recovery, da ohranite denarnico in sredstva varna."
@@ -144,7 +144,7 @@
     "message": "Vaš brskalnik ni podptrt ..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask je zasnovan in ustvarjen v Kaliforniji."
+    "message": "Neeo Wallet  je zasnovan in ustvarjen v Kaliforniji."
   },
   "buyCoinSwitch": {
     "message": "Kupi na CoinSwitch"
@@ -156,7 +156,7 @@
     "message": "Kupi ETH z Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre vam omogoča, da s kreditno kartico nakažete ETH neposredno na svoj račun MetaMask."
+    "message": "Wyre vam omogoča, da s kreditno kartico nakažete ETH neposredno na svoj račun Neeo Wallet."
   },
   "bytes": {
     "message": "Bajti"
@@ -321,7 +321,7 @@
     "message": "Neposredno vplačilo ehera"
   },
   "directDepositEtherExplainer": {
-    "message": "Če že imate Ether, ga lahko najhitreje dobite v MetaMask z neposrednim vplačilom."
+    "message": "Če že imate Ether, ga lahko najhitreje dobite v Neeo Wallet z neposrednim vplačilom."
   },
   "done": {
     "message": "Končano"
@@ -363,16 +363,16 @@
     "message": "Nikoli nikomur ne razkrijte svojega gesla seed phrase."
   },
   "endOfFlowMessage5": {
-    "message": "Pazite na lažno predstavljanje! MetaMask nikoli ne bo spontano zaprosil za vaše geslo seed phrase."
+    "message": "Pazite na lažno predstavljanje! Neeo Wallet nikoli ne bo spontano zaprosil za vaše geslo seed phrase."
   },
   "endOfFlowMessage6": {
     "message": "Če morate ponovno varnostno kopirati vaše geslo seed phrase, ga najdete v Nastavitve -> Varnost."
   },
   "endOfFlowMessage7": {
-    "message": "Če imate kakršna koli vprašanja ali opazite kaj sumljivega, nam pišite na support@metamask.io."
+    "message": "Če imate kakršna koli vprašanja ali opazite kaj sumljivega, nam pišite na support@neeoico.com."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask ne more obnoviti vašega gesla seed phrase. Več informacij."
+    "message": "Neeo Wallet  ne more obnoviti vašega gesla seed phrase. Več informacij."
   },
   "endOfFlowMessage9": {
     "message": "Več o tem"
@@ -613,7 +613,7 @@
     "message": "Sporočilo"
   },
   "metamaskDescription": {
-    "message": "MetaMask je varen identitetni sklad za Ethereum."
+    "message": "Neeo Wallet  je varen identitetni sklad za Ethereum."
   },
   "metamaskVersion": {
     "message": "Različica"
@@ -631,7 +631,7 @@
     "message": "Moji računi Denarnice"
   },
   "myWalletAccountsDescription": {
-    "message": "Vsi vaši računi, ustvarjeni v MetaMasku, bodo samodejno dodani v ta razdelek."
+    "message": "Vsi vaši računi, ustvarjeni v Neeo Walletu, bodo samodejno dodani v ta razdelek."
   },
   "needEtherInWallet": {
     "message": "Za interakcijo z decentraliziranimi aplikacijami boste v svoji denarnici potrebovali Eter."
@@ -678,7 +678,7 @@
     "message": "Novo geslo (min 8 znakov)"
   },
   "newToMetaMask": {
-    "message": "Ste novi na MetaMask?"
+    "message": "Ste novi na Neeo Wallet?"
   },
   "newTotal": {
     "message": "Novo skupno"
@@ -741,7 +741,7 @@
     "message": "Sodelujte v MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Sodelujte v MetaMetrics in nam pomagajte izboljšati MetaMask"
+    "message": "Sodelujte v MetaMetrics in nam pomagajte izboljšati Neeo Wallet"
   },
   "password": {
     "message": "Geslo"
@@ -788,10 +788,10 @@
     "message": "Varujte svoje ključe!"
   },
   "protectYourKeysMessage1": {
-    "message": "Bodite previdni  in svoj seed phrase skrbno varujte - obstajajo poročila o spletnih mestih, ki poskušajo posnemati MetaMask. MetaMask nikoli ne bo zahteval vašega gesla seed phrase!"
+    "message": "Bodite previdni  in svoj seed phrase skrbno varujte - obstajajo poročila o spletnih mestih, ki poskušajo posnemati Neeo Wallet. Neeo Wallet nikoli ne bo zahteval vašega gesla seed phrase!"
   },
   "protectYourKeysMessage2": {
-    "message": "Hranite svoj seed phrase. Če opazite sumljivo delovanje ali niste prepričani ali je določeno spletno mesto varno, nam pišite na support@metamask.io"
+    "message": "Hranite svoj seed phrase. Če opazite sumljivo delovanje ali niste prepričani ali je določeno spletno mesto varno, nam pišite na support@neeoico.com"
   },
   "queue": {
     "message": "Čakalna vrsta"
@@ -935,7 +935,7 @@
     "message": "Izberi račun"
   },
   "selectAnAccountHelp": {
-    "message": "Izberi račun za prikaz v MetaMask"
+    "message": "Izberi račun za prikaz v Neeo Wallet"
   },
   "selectCurrency": {
     "message": "Izberi valuto"
@@ -1085,16 +1085,16 @@
     "message": "Ko skenirate to kodo, naj nihče ne kuka na vaš zaslon"
   },
   "syncWithMobileComplete": {
-    "message": "Vaši podatki so uspešno sinhronizirani. Uživajte v mobilni aplikaciji MetaMask!"
+    "message": "Vaši podatki so uspešno sinhronizirani. Uživajte v mobilni aplikaciji Neeo Wallet!"
   },
   "syncWithMobileDesc": {
-    "message": "Račune in podatke lahko sinhronizirate s svojo mobilno napravo. Odprite mobilno aplikacijo MetaMask, pojdite na \"Nastavitve\" in tapnite \"Sinhroniziraj z razširitvijo brskalnika\""
+    "message": "Račune in podatke lahko sinhronizirate s svojo mobilno napravo. Odprite mobilno aplikacijo Neeo Wallet, pojdite na \"Nastavitve\" in tapnite \"Sinhroniziraj z razširitvijo brskalnika\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Če ste sedaj prvič odprli aplikacijo MetaMask Mobile, samo sledite korakom v telefonu."
+    "message": "Če ste sedaj prvič odprli aplikacijo Neeo Wallet Mobile, samo sledite korakom v telefonu."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Skenirajte to kodo z mobilno aplikacijo MetaMask"
+    "message": "Skenirajte to kodo z mobilno aplikacijo Neeo Wallet"
   },
   "syncWithMobileTitle": {
     "message": "Sinhroniziraj z mobilnimi telefonom"
@@ -1188,7 +1188,7 @@
     "message": "Poskusi znova"
   },
   "typePassword": {
-    "message": "Vnesite vaše MetaMask geslo"
+    "message": "Vnesite vaše Neeo Wallet geslo"
   },
   "unapproved": {
     "message": "Neodobreno"
@@ -1248,7 +1248,7 @@
     "message": "Obiščite našo spletno stran"
   },
   "welcome": {
-    "message": "Dobrodošli v MetaMask"
+    "message": "Dobrodošli v Neeo Wallet"
   },
   "welcomeBack": {
     "message": "Dobrodošli nazaj!"

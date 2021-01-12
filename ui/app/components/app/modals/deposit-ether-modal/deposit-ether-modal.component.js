@@ -12,7 +12,6 @@ export default class DepositEtherModal extends Component {
   static propTypes = {
     network: PropTypes.string.isRequired,
     toWyre: PropTypes.func.isRequired,
-    toCoinSwitch: PropTypes.func.isRequired,
     address: PropTypes.string.isRequired,
     toFaucet: PropTypes.func.isRequired,
     hideWarning: PropTypes.func.isRequired,
@@ -78,7 +77,7 @@ export default class DepositEtherModal extends Component {
   }
 
   render () {
-    const { network, toWyre, toCoinSwitch, address, toFaucet } = this.props
+    const { network, toWyre, address, toFaucet } = this.props
 
     const isTestNetwork = ['3', '4', '5', '42'].find((n) => n === network)
     const networkName = getNetworkDisplayName(network)
@@ -151,31 +150,6 @@ export default class DepositEtherModal extends Component {
                   },
                 })
                 toWyre(address)
-              },
-              hide: isTestNetwork,
-            })}
-            {this.renderRow({
-              logo: (
-                <div
-                  className="deposit-ether-modal__logo"
-                  style={{
-                    backgroundImage: "url('./images/coinswitch_logo.png')",
-                    height: '40px',
-                  }}
-                />
-              ),
-              title: this.context.t('buyCoinSwitch'),
-              text: this.context.t('buyCoinSwitchExplainer'),
-              buttonLabel: this.context.t('continueToCoinSwitch'),
-              onButtonClick: () => {
-                this.context.metricsEvent({
-                  eventOpts: {
-                    category: 'Accounts',
-                    action: 'Deposit Ether',
-                    name: 'Click buy Ether via CoinSwitch',
-                  },
-                })
-                toCoinSwitch(address)
               },
               hide: isTestNetwork,
             })}

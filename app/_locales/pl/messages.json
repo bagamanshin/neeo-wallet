@@ -30,7 +30,7 @@
     "message": "dziennik aktywności"
   },
   "addAcquiredTokens": {
-    "message": "Dodaj tokeny pozyskane przy pomocy MetaMask"
+    "message": "Dodaj tokeny pozyskane przy pomocy Neeo Wallet"
   },
   "addAlias": {
     "message": "Dodaj alias"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "Neeo Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Czas automatycznego wylogowania (w minutach)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Ustaw czas bezczynności w minutach, po którym MetaMask wyloguje Cię automatycznie"
+    "message": "Ustaw czas bezczynności w minutach, po którym Neeo Wallet wyloguje Cię automatycznie"
   },
   "average": {
     "message": "Średnia"
@@ -113,7 +113,7 @@
     "message": "Wróć do wszystkich"
   },
   "backupApprovalInfo": {
-    "message": "Ten tajny kod jest wymagany do odzyskania portfela w przypadku zgubienia urządzenia, zapomnienia hasła, ponownego zainstalowania MetaMask lub potrzeby uzyskania dostępu do portfela na innym urządzeniu."
+    "message": "Ten tajny kod jest wymagany do odzyskania portfela w przypadku zgubienia urządzenia, zapomnienia hasła, ponownego zainstalowania Neeo Wallet lub potrzeby uzyskania dostępu do portfela na innym urządzeniu."
   },
   "backupApprovalNotice": {
     "message": "Utwórz kopię zapasową tajnego kodu odzyskiwania, aby zapewnić bezpieczeństwo swojego portfela i środków."
@@ -144,7 +144,7 @@
     "message": "Twoja przeglądarka nie jest obsługiwana..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask został zaprojektowany i stworzony w Kaliforni."
+    "message": "Neeo Wallet  został zaprojektowany i stworzony w Kaliforni."
   },
   "buyCoinSwitch": {
     "message": "Kup w CoinSwitch"
@@ -156,7 +156,7 @@
     "message": "Kup ETH poprzez Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Dzięki Wyre możesz użyć karty kredytowej, aby wpłacić ETH bezpośrednio na swoje konto MetaMask."
+    "message": "Dzięki Wyre możesz użyć karty kredytowej, aby wpłacić ETH bezpośrednio na swoje konto Neeo Wallet."
   },
   "bytes": {
     "message": "Bajty"
@@ -180,7 +180,7 @@
     "message": "Wykres dostępny tylko w sieciach Ethereum"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Żeby połączyć się z portfelem sprzętowym, należy uruchomić MetaMask z przeglądarką Google Chrome."
+    "message": "Żeby połączyć się z portfelem sprzętowym, należy uruchomić Neeo Wallet z przeglądarką Google Chrome."
   },
   "clickToRevealSeed": {
     "message": "Kliknij tutaj, aby odkryć tajne słowa"
@@ -363,16 +363,16 @@
     "message": "Nigdy nie udostępniaj nikomu tej frazy."
   },
   "endOfFlowMessage5": {
-    "message": "Uważaj na phishing! MetaMask nigdy spontanicznie nie poprosi Cię o podanie frazy seed."
+    "message": "Uważaj na phishing! Neeo Wallet nigdy spontanicznie nie poprosi Cię o podanie frazy seed."
   },
   "endOfFlowMessage6": {
     "message": "Jeśli zajdzie konieczność ponownego wykonania kopii zapasowej frazy seed, znajdziesz ją w Ustawieniach -> Zabezpieczenia."
   },
   "endOfFlowMessage7": {
-    "message": "Jeśli masz jakieś pytania lub zauważysz coś podejrzanego, wyślij e-mail na adres support@metamask.io."
+    "message": "Jeśli masz jakieś pytania lub zauważysz coś podejrzanego, wyślij e-mail na adres support@neeoico.com."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask nie może odzyskać Twojej frazy seed. Dowiedz się więcej."
+    "message": "Neeo Wallet  nie może odzyskać Twojej frazy seed. Dowiedz się więcej."
   },
   "endOfFlowMessage9": {
     "message": "Dowiedz się więcej."
@@ -489,7 +489,7 @@
     "message": "Podłącz sprzętowy portfel"
   },
   "hardwareWalletsMsg": {
-    "message": "Wybierz portfel sprzętowy, którego chcesz użyć z MetaMaskiem"
+    "message": "Wybierz portfel sprzętowy, którego chcesz użyć z Neeo Walletiem"
   },
   "havingTroubleConnecting": {
     "message": "Problem z połączeniem?"
@@ -518,7 +518,7 @@
     "message": "Importuj konto"
   },
   "importAccountMsg": {
-    "message": " Importowane konta nie będą powiązane z Twoją pierwotną frazą seed MetaMask. Dowiedz się więcej o importowaniu kont "
+    "message": " Importowane konta nie będą powiązane z Twoją pierwotną frazą seed Neeo Wallet. Dowiedz się więcej o importowaniu kont "
   },
   "importAccountSeedPhrase": {
     "message": "Zaimportuj konto za pomocą frazy seed"
@@ -625,10 +625,10 @@
     "message": "Wiadomość"
   },
   "metamaskDescription": {
-    "message": "MetaMask to bezpieczny portfel dla Ethereum."
+    "message": "Neeo Wallet  to bezpieczny portfel dla Ethereum."
   },
   "metamaskVersion": {
-    "message": "Wersja MetaMask"
+    "message": "Wersja Neeo Wallet"
   },
   "mobileSyncText": {
     "message": "Wpisz hasło, aby potwierdzić, że to Ty!"
@@ -643,10 +643,10 @@
     "message": "Moja konta portfeli"
   },
   "myWalletAccountsDescription": {
-    "message": "Wszystkie Twoje konta utworzone w MetaMask zostaną automatycznie dodane do tej sekcji."
+    "message": "Wszystkie Twoje konta utworzone w Neeo Wallet zostaną automatycznie dodane do tej sekcji."
   },
   "needEtherInWallet": {
-    "message": "Żeby skorzystać ze zdecentraliowanych aplikacji (dApps) przy pomocy MetaMask, potrzebujesz Eteru w swoim portfelu."
+    "message": "Żeby skorzystać ze zdecentraliowanych aplikacji (dApps) przy pomocy Neeo Wallet, potrzebujesz Eteru w swoim portfelu."
   },
   "needImportFile": {
     "message": "Musisz wybrać plik do zaimportowania.",
@@ -690,7 +690,7 @@
     "message": "Nowe hasło (min. 8 znaków)"
   },
   "newToMetaMask": {
-    "message": "Pierwszy raz w MetaMask?"
+    "message": "Pierwszy raz w Neeo Wallet?"
   },
   "newTotal": {
     "message": "Nowa suma"
@@ -750,7 +750,7 @@
     "message": "Weź udział w MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Weź udział w MetaMetrics, aby pomóc nam ulepszyć MetaMask"
+    "message": "Weź udział w MetaMetrics, aby pomóc nam ulepszyć Neeo Wallet"
   },
   "password": {
     "message": "Hasło"
@@ -797,10 +797,10 @@
     "message": "Chroń swoje klucze!"
   },
   "protectYourKeysMessage1": {
-    "message": "Traktuj swoją frazę seed z ostrożnością – zgłaszano nam przypadki stron internetowych, które podają się za MetaMask. MetaMask nigdy nie poprosi Cię o podanie frazy seed!"
+    "message": "Traktuj swoją frazę seed z ostrożnością – zgłaszano nam przypadki stron internetowych, które podają się za Neeo Wallet. Neeo Wallet nigdy nie poprosi Cię o podanie frazy seed!"
   },
   "protectYourKeysMessage2": {
-    "message": "Przechowuj frazę z zachowaniem zasad bezpieczeństwa. Jeśli zauważysz coś podejrzanego lub nie masz pewności co do strony internetowej, wyślij e-mail na adres support@metamask.io"
+    "message": "Przechowuj frazę z zachowaniem zasad bezpieczeństwa. Jeśli zauważysz coś podejrzanego lub nie masz pewności co do strony internetowej, wyślij e-mail na adres support@neeoico.com"
   },
   "queue": {
     "message": "Kolejka"
@@ -947,7 +947,7 @@
     "message": "Wybierz konto"
   },
   "selectAnAccountHelp": {
-    "message": "Wybierz konto do przeglądania w MetaMask"
+    "message": "Wybierz konto do przeglądania w Neeo Wallet"
   },
   "selectCurrency": {
     "message": "Wybierz walutę"
@@ -1094,16 +1094,16 @@
     "message": "Upewnij się, że nikt inny nie patrzy na Twój ekran podczas skanowania tego kodu"
   },
   "syncWithMobileComplete": {
-    "message": "Twoje dane zostały zsynchronizowane. Miłego korzystania z aplikacji mobilnej MetaMask!"
+    "message": "Twoje dane zostały zsynchronizowane. Miłego korzystania z aplikacji mobilnej Neeo Wallet!"
   },
   "syncWithMobileDesc": {
-    "message": "Możesz synchronizować swoje konta i informacje z urządzeniem mobilnym. Otwórz aplikację mobilną MetaMask, przejdź do „Ustawień” i wybierz opcję „Synchronizuj z rozszerzeniem przeglądarki”."
+    "message": "Możesz synchronizować swoje konta i informacje z urządzeniem mobilnym. Otwórz aplikację mobilną Neeo Wallet, przejdź do „Ustawień” i wybierz opcję „Synchronizuj z rozszerzeniem przeglądarki”."
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Jeśli po raz pierwszy otwierasz aplikację MetaMask Mobile, postępuj zgodnie z instrukcjami w telefonie."
+    "message": "Jeśli po raz pierwszy otwierasz aplikację Neeo Wallet Mobile, postępuj zgodnie z instrukcjami w telefonie."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Zeskanuj ten kod za pomocą aplikacji mobilnej MetaMask"
+    "message": "Zeskanuj ten kod za pomocą aplikacji mobilnej Neeo Wallet"
   },
   "syncWithMobileTitle": {
     "message": "Synchronizuj z telefonem"
@@ -1257,7 +1257,7 @@
     "message": "Seed portfela"
   },
   "welcome": {
-    "message": "Witaj w MetaMask"
+    "message": "Witaj w Neeo Wallet"
   },
   "welcomeBack": {
     "message": "Witaj z powrotem!"

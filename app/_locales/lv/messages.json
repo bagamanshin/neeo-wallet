@@ -30,7 +30,7 @@
     "message": "darbību žurnāls"
   },
   "addAcquiredTokens": {
-    "message": "Pievienojiet marķierus, ko ieguvāt, izmantojot MetaMask"
+    "message": "Pievienojiet marķierus, ko ieguvāt, izmantojot Neeo Wallet"
   },
   "addAlias": {
     "message": "Pievienot segvārdu"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "Neeo Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Automātiskās izrakstīšanās taimeris (minūtes)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Iestatiet bezdarbības laiku minūtēs, pēc kura MetaMask veiks automātisku izrakstīšanu"
+    "message": "Iestatiet bezdarbības laiku minūtēs, pēc kura Neeo Wallet veiks automātisku izrakstīšanu"
   },
   "average": {
     "message": "Vidēji"
@@ -113,7 +113,7 @@
     "message": "Atgriezties pie visiem"
   },
   "backupApprovalInfo": {
-    "message": "Šis slepenais kods ir nepieciešams, lai atjaunotu jūsu maku, ja pazaudējat ierīci, aizmirstat paroli, jāpārinstalē MetaMask vai vēlaties piekļūt makam no citas ierīces."
+    "message": "Šis slepenais kods ir nepieciešams, lai atjaunotu jūsu maku, ja pazaudējat ierīci, aizmirstat paroli, jāpārinstalē Neeo Wallet vai vēlaties piekļūt makam no citas ierīces."
   },
   "backupApprovalNotice": {
     "message": "Dublējiet savu slepeno atgūšanas kodu, lai maks un līdzekļi atrastos drošībā."
@@ -144,7 +144,7 @@
     "message": "Jūsu pārlūkprogramma netiek atbalstīta..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask ir izstrādāta un izveidota Kalifornijā."
+    "message": "Neeo Wallet  ir izstrādāta un izveidota Kalifornijā."
   },
   "buyCoinSwitch": {
     "message": "Pirkt CoinSwitch"
@@ -156,7 +156,7 @@
     "message": "Pirkt ETH ar Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre ļauj noguldīt ETH tieši jūsu MetaMask kontā, izmantojot kredītkarti."
+    "message": "Wyre ļauj noguldīt ETH tieši jūsu Neeo Wallet kontā, izmantojot kredītkarti."
   },
   "bytes": {
     "message": "Baiti"
@@ -180,7 +180,7 @@
     "message": "Grafiks pieejams vienīgi Ethereum tīklos."
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "MetaMask ir jāpalaiž pārlūkprogrammā Google Chrome, lai varētu pievienot aparatūras maku."
+    "message": "Neeo Wallet  ir jāpalaiž pārlūkprogrammā Google Chrome, lai varētu pievienot aparatūras maku."
   },
   "clickToRevealSeed": {
     "message": "Klikšķiniet šeit, lai skatītu slepenos vārdus"
@@ -363,16 +363,16 @@
     "message": "Nekad neizpaudiet šo frāzi citiem cilvēkiem."
   },
   "endOfFlowMessage5": {
-    "message": "Uzmanieties no pikšķerēšanas! MetaMask nekad pēkšņi nelūgs norādīt atkopšanas frāzi."
+    "message": "Uzmanieties no pikšķerēšanas! Neeo Wallet nekad pēkšņi nelūgs norādīt atkopšanas frāzi."
   },
   "endOfFlowMessage6": {
     "message": "Ja nepieciešams atkārtoti dublēt atkopšanas frāzi, varat to atrast, dodoties uz Iestatījumi -> Drošība."
   },
   "endOfFlowMessage7": {
-    "message": "Ja jums rodas kādi jautājumi vai pamanāt ko aizdomīgu, rakstiet uz support@metamask.io."
+    "message": "Ja jums rodas kādi jautājumi vai pamanāt ko aizdomīgu, rakstiet uz support@neeoico.com."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask nevar atjaunot jūsu atkopšanas frāzi. Uzzināt vairāk."
+    "message": "Neeo Wallet  nevar atjaunot jūsu atkopšanas frāzi. Uzzināt vairāk."
   },
   "endOfFlowMessage9": {
     "message": "Uzzināt vairāk."
@@ -485,7 +485,7 @@
     "message": "Pieslēdziet aparatūras maku"
   },
   "hardwareWalletsMsg": {
-    "message": "Atlasiet aparatūras maku lietošanai ar MetaMask"
+    "message": "Atlasiet aparatūras maku lietošanai ar Neeo Wallet"
   },
   "havingTroubleConnecting": {
     "message": "Neizdodas pieslēgties?"
@@ -514,7 +514,7 @@
     "message": "Importēt kontu"
   },
   "importAccountMsg": {
-    "message": "Importētie konti netiks piesaistīti sākotnēji izveidotā MetaMask konta atkopšanas frāzei. Uzziniet vairāk par importētajiem kontiem"
+    "message": "Importētie konti netiks piesaistīti sākotnēji izveidotā Neeo Wallet konta atkopšanas frāzei. Uzziniet vairāk par importētajiem kontiem"
   },
   "importAccountSeedPhrase": {
     "message": "Importēt kontu ar atkopšanas frāzi"
@@ -627,7 +627,7 @@
     "message": "Veido savienojumu ar Ethereum un decentralizēto tīmekli."
   },
   "metamaskVersion": {
-    "message": "MetaMask versija"
+    "message": "Neeo Wallet  versija"
   },
   "mobileSyncText": {
     "message": "Lūdzu, ievadiet paroli, lai apstiprinātu, ka tas esat jūs."
@@ -642,10 +642,10 @@
     "message": "Mana maka konti"
   },
   "myWalletAccountsDescription": {
-    "message": "Visi jūsu izveidotie MetaMask konti tiks automātiski pievienoti šajā sadaļā."
+    "message": "Visi jūsu izveidotie Neeo Wallet konti tiks automātiski pievienoti šajā sadaļā."
   },
   "needEtherInWallet": {
-    "message": "Lai izmantotu decentralizētas lietotnes ar MetaMask, jūsu makā jābūt Ether."
+    "message": "Lai izmantotu decentralizētas lietotnes ar Neeo Wallet, jūsu makā jābūt Ether."
   },
   "needImportFile": {
     "message": "Jums jāatlasa fails, ko importēt",
@@ -689,7 +689,7 @@
     "message": "Jauna parole (vism. 8 rakstzīmes)"
   },
   "newToMetaMask": {
-    "message": "Nepazīstat MetaMask?"
+    "message": "Nepazīstat Neeo Wallet?"
   },
   "newTotal": {
     "message": "Jaunā kopsumma"
@@ -799,10 +799,10 @@
     "message": "Sargājiet savas atslēgas!"
   },
   "protectYourKeysMessage1": {
-    "message": "Rīkojieties uzmanīgi ar sēklas frāzi — saņemti ziņojumi par tīmekļa vietnēm, kas mēģina imitēt MetaMask. MetaMask nekad nelūgs norādīt sēklas frāzi."
+    "message": "Rīkojieties uzmanīgi ar sēklas frāzi — saņemti ziņojumi par tīmekļa vietnēm, kas mēģina imitēt Neeo Wallet. Neeo Wallet nekad nelūgs norādīt sēklas frāzi."
   },
   "protectYourKeysMessage2": {
-    "message": "Glabājiet frāzi drošībā. Ja kaut kas šķiet aizdomīgs vai neesat pārliecināti par tīmekļa vietni, rakstiet e-pastu uz support@metamask.io"
+    "message": "Glabājiet frāzi drošībā. Ja kaut kas šķiet aizdomīgs vai neesat pārliecināti par tīmekļa vietni, rakstiet e-pastu uz support@neeoico.com"
   },
   "queue": {
     "message": "Rinda"
@@ -949,7 +949,7 @@
     "message": "Atlasiet kontu"
   },
   "selectAnAccountHelp": {
-    "message": "Atlasiet kontu, ko skatīt MetaMask"
+    "message": "Atlasiet kontu, ko skatīt Neeo Wallet"
   },
   "selectCurrency": {
     "message": "Atlasiet valūtu"
@@ -1099,16 +1099,16 @@
     "message": "Pārliecinieties, ka neviens cits neskatās jūsu ekrānā, kad skenējat šo kodu."
   },
   "syncWithMobileComplete": {
-    "message": "Jūsu dati sekmīgi sinhronizēti. Patīkamu MetaMask mobilās lietotnes lietošanu!"
+    "message": "Jūsu dati sekmīgi sinhronizēti. Patīkamu Neeo Wallet mobilās lietotnes lietošanu!"
   },
   "syncWithMobileDesc": {
-    "message": "Jūs varat sinhronizēt savus kontus un informāciju ar mobilo ierīci. Atveriet MetaMask mobilo lietotni, ejiet uz \"Iestatījumi\" un pieskarieties pie \"Sinhronizēt no pārlūka paplašinājuma\""
+    "message": "Jūs varat sinhronizēt savus kontus un informāciju ar mobilo ierīci. Atveriet Neeo Wallet mobilo lietotni, ejiet uz \"Iestatījumi\" un pieskarieties pie \"Sinhronizēt no pārlūka paplašinājuma\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Ja esat pirmoreiz atvēris MetaMask mobilo lietotni, vienkārši sekojiet norādēm tālrunī."
+    "message": "Ja esat pirmoreiz atvēris Neeo Wallet mobilo lietotni, vienkārši sekojiet norādēm tālrunī."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Noskenējiet šo kodu ar MetaMask mobilo lietotni"
+    "message": "Noskenējiet šo kodu ar Neeo Wallet mobilo lietotni"
   },
   "syncWithMobileTitle": {
     "message": "Sinhronizēt ar tālruni"
@@ -1202,7 +1202,7 @@
     "message": "Mēģināt vēlreiz"
   },
   "typePassword": {
-    "message": "Ievadiet savu MetaMask paroli"
+    "message": "Ievadiet savu Neeo Wallet paroli"
   },
   "unapproved": {
     "message": "Nav apstiprināts"
@@ -1265,7 +1265,7 @@
     "message": "Maka atkopšanas frāze"
   },
   "welcome": {
-    "message": "Laipni lūgti MetaMask"
+    "message": "Laipni lūgti Neeo Wallet"
   },
   "welcomeBack": {
     "message": "Ar atgriešanos!"
