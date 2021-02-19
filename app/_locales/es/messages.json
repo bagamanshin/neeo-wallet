@@ -30,7 +30,7 @@
     "message": "registro de actividades"
   },
   "addAcquiredTokens": {
-    "message": "Agregar los tokens que has adquirido usando Neeo Wallet"
+    "message": "Agregar los tokens que has adquirido usando ISAB Wallet"
   },
   "addAlias": {
     "message": "Añadir alias"
@@ -70,7 +70,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Neeo Wallet",
+    "message": "ISAB Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -98,7 +98,7 @@
     "message": "Temporizador Auto-Cierre (minutos)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Establece el tiempo de inactividad en minutos antes de que Neeo Wallet cierre la sesión automáticamente."
+    "message": "Establece el tiempo de inactividad en minutos antes de que ISAB Wallet cierre la sesión automáticamente."
   },
   "average": {
     "message": "Promedio"
@@ -125,7 +125,7 @@
     "message": "Tu navegador no está admitido..."
   },
   "builtInCalifornia": {
-    "message": "Neeo Wallet  fue diseñado y construido en California"
+    "message": "ISAB Wallet  fue diseñado y construido en California"
   },
   "buyCoinSwitch": {
     "message": "Comprar en CoinSwitch"
@@ -152,7 +152,7 @@
     "message": "Tabla solo disponible en redes Ethereum."
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Hay que usar Neeo Wallet en Google Chrome para poder conectarse con tu Monedero Físico."
+    "message": "Hay que usar ISAB Wallet en Google Chrome para poder conectarse con tu Monedero Físico."
   },
   "clickToRevealSeed": {
     "message": "Haga clic aquí para revelar palabras secretas"
@@ -308,7 +308,7 @@
     "message": "Editar Contacto"
   },
   "endOfFlowMessage8": {
-    "message": "Neeo Wallet  no puede recuperar tu seedphrase. Saber más."
+    "message": "ISAB Wallet  no puede recuperar tu seedphrase. Saber más."
   },
   "endOfFlowMessage9": {
     "message": "Saber más."
@@ -392,7 +392,7 @@
     "message": "Conectarle un monedero físico"
   },
   "hardwareWalletsMsg": {
-    "message": "Seleccionar un monedero físico que quieres usar con Neeo Wallet"
+    "message": "Seleccionar un monedero físico que quieres usar con ISAB Wallet"
   },
   "havingTroubleConnecting": {
     "message": "¿Tienes problemas para hacer la conexión?"
@@ -421,7 +421,7 @@
     "message": "Importar cuenta"
   },
   "importAccountMsg": {
-    "message": "Las cuentas importadas no serán asociadas con tu cuenta original creada con tu Neeo Wallet. Aprende más acerca de importar cuentas."
+    "message": "Las cuentas importadas no serán asociadas con tu cuenta original creada con tu ISAB Wallet. Aprende más acerca de importar cuentas."
   },
   "importUsingSeed": {
     "message": "Importar usando la frase semilla de la cuenta"
@@ -507,10 +507,10 @@
     "message": "Mensaje"
   },
   "metamaskDescription": {
-    "message": "Neeo Wallet  es una identidad segura en Ethereum"
+    "message": "ISAB Wallet  es una identidad segura en Ethereum"
   },
   "metamaskVersion": {
-    "message": "Versión de Neeo Wallet"
+    "message": "Versión de ISAB Wallet"
   },
   "mustSelectOne": {
     "message": "Debe seleccionar al menos un (1) token"
@@ -519,7 +519,7 @@
     "message": "Mis cuentas"
   },
   "needEtherInWallet": {
-    "message": "Para interactuar con una aplicación descentralizada usando Neeo Wallet, necesitas tener Ether en tu billetera"
+    "message": "Para interactuar con una aplicación descentralizada usando ISAB Wallet, necesitas tener Ether en tu billetera"
   },
   "needImportFile": {
     "message": "Debes seleccionar un archivo para importar",
@@ -751,7 +751,7 @@
     "message": "Seleccionar una Cuenta"
   },
   "selectAnAccountHelp": {
-    "message": "Seleccionar la cuenta que quiere ver en Neeo Wallet"
+    "message": "Seleccionar la cuenta que quiere ver en ISAB Wallet"
   },
   "selectCurrency": {
     "message": "Seleccionar moneda"
@@ -1001,7 +1001,7 @@
     "message": "Semilla de la billetera"
   },
   "welcome": {
-    "message": "Bienvenido a Neeo Wallet"
+    "message": "Bienvenido a ISAB Wallet"
   },
   "welcomeBack": {
     "message": "¡Bienvenido de nuevo!"

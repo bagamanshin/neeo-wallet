@@ -30,7 +30,7 @@
     "message": "registro de atividade"
   },
   "addAcquiredTokens": {
-    "message": "Adicione os tokens que você adquiriu usando o Neeo Wallet"
+    "message": "Adicione os tokens que você adquiriu usando o ISAB Wallet"
   },
   "addAlias": {
     "message": "Adicionar pseudônimo"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Neeo Wallet",
+    "message": "ISAB Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Temporizador de Logout Automático (minutos)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Defina o tempo de inatividade em minutos antes de o Neeo Wallet fazer logout automaticamente"
+    "message": "Defina o tempo de inatividade em minutos antes de o ISAB Wallet fazer logout automaticamente"
   },
   "average": {
     "message": "Média"
@@ -113,7 +113,7 @@
     "message": "Voltar para Todos"
   },
   "backupApprovalInfo": {
-    "message": "Esse código secreto é necessário para recuperar sua carteira, caso você perca seu dispositivo, esqueça sua senha, precise reinstalar o Neeo Wallet ou queira acessar sua carteira em outro dispositivo."
+    "message": "Esse código secreto é necessário para recuperar sua carteira, caso você perca seu dispositivo, esqueça sua senha, precise reinstalar o ISAB Wallet ou queira acessar sua carteira em outro dispositivo."
   },
   "backupApprovalNotice": {
     "message": "Faça backup de seu Código Secreto de Recuperação para manter sua carteira e seus fundos em segurança."
@@ -141,7 +141,7 @@
     "message": "Seu navegador não é compatível..."
   },
   "builtInCalifornia": {
-    "message": "O Neeo Wallet foi projetado e desenvolvido na Califórnia."
+    "message": "O ISAB Wallet foi projetado e desenvolvido na Califórnia."
   },
   "buyCoinSwitch": {
     "message": "Compre no CoinSwitch"
@@ -153,7 +153,7 @@
     "message": "Comprar ETH com Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "O Wyre permite que você utilize um cartão de crédito para depositar ETH direto na sua conta do Neeo Wallet."
+    "message": "O Wyre permite que você utilize um cartão de crédito para depositar ETH direto na sua conta do ISAB Wallet."
   },
   "cancel": {
     "message": "Cancelar"
@@ -174,7 +174,7 @@
     "message": "Tabela disponível apenas em redes de Ethereum."
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Você precisa usar o Neeo Wallet no Google Chrome para se conectar à sua Carteira de Hardware."
+    "message": "Você precisa usar o ISAB Wallet no Google Chrome para se conectar à sua Carteira de Hardware."
   },
   "clickToRevealSeed": {
     "message": "Clique aqui para revelar as palavras secretas"
@@ -357,7 +357,7 @@
     "message": "Nunca compartilhe a frase com ninguém."
   },
   "endOfFlowMessage5": {
-    "message": "Cuidado com o phishing! O Neeo Wallet nunca solicitará espontaneamente sua frase semente."
+    "message": "Cuidado com o phishing! O ISAB Wallet nunca solicitará espontaneamente sua frase semente."
   },
   "endOfFlowMessage6": {
     "message": "Se precisar fazer backup de sua frase-semente de novo, acesse Configurações -> Segurança."
@@ -366,7 +366,7 @@
     "message": "Caso você tenha alguma dúvida ou veja algo suspeito, envie um e-mail para support@neeoico.com."
   },
   "endOfFlowMessage8": {
-    "message": "O Neeo Wallet não pode recuperar sua frase semente. Saiba mais."
+    "message": "O ISAB Wallet não pode recuperar sua frase semente. Saiba mais."
   },
   "endOfFlowMessage9": {
     "message": "Saiba mais."
@@ -483,7 +483,7 @@
     "message": "Conecte uma carteira física"
   },
   "hardwareWalletsMsg": {
-    "message": "Selecione um hardware que gostaria de utilizar com o Neeo Wallet"
+    "message": "Selecione um hardware que gostaria de utilizar com o ISAB Wallet"
   },
   "havingTroubleConnecting": {
     "message": "Está tendo dificuldade para se conectar?"
@@ -512,7 +512,7 @@
     "message": "Importar Conta"
   },
   "importAccountMsg": {
-    "message": "As contas importadas não serão associadas à sua frase-semente da conta Neeo Wallet criada originalmente. Saiba mais sobre contas importadas"
+    "message": "As contas importadas não serão associadas à sua frase-semente da conta ISAB Wallet criada originalmente. Saiba mais sobre contas importadas"
   },
   "importAccountSeedPhrase": {
     "message": "Importar uma Conta com Frase-semente"
@@ -619,7 +619,7 @@
     "message": "Conectando você ao Ethereum e à Web Descentralizada."
   },
   "metamaskVersion": {
-    "message": "Versão do Neeo Wallet"
+    "message": "Versão do ISAB Wallet"
   },
   "mobileSyncText": {
     "message": "Insira sua senha para confirmar que é você!"
@@ -634,10 +634,10 @@
     "message": "Contas da Minha Carteira"
   },
   "myWalletAccountsDescription": {
-    "message": "Todas as suas contas criadas no Neeo Wallet serão automaticamente adicionadas a esta seção."
+    "message": "Todas as suas contas criadas no ISAB Wallet serão automaticamente adicionadas a esta seção."
   },
   "needEtherInWallet": {
-    "message": "Para interagir com aplicações descentralizadas usando o Neeo Wallet, você precisará de Ether na sua carteira."
+    "message": "Para interagir com aplicações descentralizadas usando o ISAB Wallet, você precisará de Ether na sua carteira."
   },
   "needImportFile": {
     "message": "Você deve selecionar um arquivo para importar.",
@@ -681,7 +681,7 @@
     "message": "Nova Senha (mín. 8 car.)"
   },
   "newToMetaMask": {
-    "message": "Novo no Neeo Wallet?"
+    "message": "Novo no ISAB Wallet?"
   },
   "newTotal": {
     "message": "Total Novo"
@@ -744,7 +744,7 @@
     "message": "Participar do MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Participe do MetaMetrics para nos ajudar a tornar o Neeo Wallet melhor"
+    "message": "Participe do MetaMetrics para nos ajudar a tornar o ISAB Wallet melhor"
   },
   "password": {
     "message": "Senha"
@@ -791,7 +791,7 @@
     "message": "Proteja as suas chaves!"
   },
   "protectYourKeysMessage1": {
-    "message": "Tome cuidado com sua frase semente — houve relatos de sites que tentam imitar o Neeo Wallet. O Neeo Wallet nunca pedirá sua frase semente!"
+    "message": "Tome cuidado com sua frase semente — houve relatos de sites que tentam imitar o ISAB Wallet. O ISAB Wallet nunca pedirá sua frase semente!"
   },
   "protectYourKeysMessage2": {
     "message": "Mantenha a sua frase segura. Se você vir algo esquisito ou está inseguro quanto a um site, envie um e-mail para support@neeoico.com"
@@ -941,7 +941,7 @@
     "message": "Selecione uma Conta"
   },
   "selectAnAccountHelp": {
-    "message": "Selecione a conta para ver no Neeo Wallet"
+    "message": "Selecione a conta para ver no ISAB Wallet"
   },
   "selectCurrency": {
     "message": "Selecione a Moeda"
@@ -1091,16 +1091,16 @@
     "message": "Certifique-se de que ninguém mais esteja olhando para sua tela ao digitalizar esse código"
   },
   "syncWithMobileComplete": {
-    "message": "Seus dados foram sincronizados com sucesso. Aproveite o aplicativo Neeo Wallet!"
+    "message": "Seus dados foram sincronizados com sucesso. Aproveite o aplicativo ISAB Wallet!"
   },
   "syncWithMobileDesc": {
-    "message": "Você pode sincronizar suas contas e informações com seu dispositivo móvel. Abra o aplicativo móvel Neeo Wallet, vá em \"Configurações\" e toque em \"Sincronizar da Extensão do Navegador\""
+    "message": "Você pode sincronizar suas contas e informações com seu dispositivo móvel. Abra o aplicativo móvel ISAB Wallet, vá em \"Configurações\" e toque em \"Sincronizar da Extensão do Navegador\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Se você acabou de abrir o aplicativo Neeo Wallet Mobile pela primeira vez, basta seguir os passos no seu telefone."
+    "message": "Se você acabou de abrir o aplicativo ISAB Wallet Mobile pela primeira vez, basta seguir os passos no seu telefone."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Digitalize este código com o seu app móvel do Neeo Wallet"
+    "message": "Digitalize este código com o seu app móvel do ISAB Wallet"
   },
   "syncWithMobileTitle": {
     "message": "Sincronizar com o celular"
@@ -1188,7 +1188,7 @@
     "message": "Tentar novamente"
   },
   "typePassword": {
-    "message": "Digite sua senha do Neeo Wallet"
+    "message": "Digite sua senha do ISAB Wallet"
   },
   "unapproved": {
     "message": "Desaprovado"
@@ -1251,7 +1251,7 @@
     "message": "Semente da Carteira"
   },
   "welcome": {
-    "message": "Bem-vindo ao Neeo Wallet"
+    "message": "Bem-vindo ao ISAB Wallet"
   },
   "welcomeBack": {
     "message": "Bem-vindo de volta!"

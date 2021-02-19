@@ -30,7 +30,7 @@
     "message": "tevékenységi napló"
   },
   "addAcquiredTokens": {
-    "message": "Adja hozzá Neeo Wallet-kal a kapott érméket"
+    "message": "Adja hozzá ISAB Wallet-kal a kapott érméket"
   },
   "addAlias": {
     "message": "Álnév hozzáadása"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Neeo Wallet",
+    "message": "ISAB Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Automatikus kijelentkezés időzítő (perc)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Adja meg a Neeo Wallet automatikus kijelentkezéséig tartó tétlen állapot idejét percekben "
+    "message": "Adja meg a ISAB Wallet automatikus kijelentkezéséig tartó tétlen állapot idejét percekben "
   },
   "average": {
     "message": "Átlag"
@@ -113,7 +113,7 @@
     "message": "Vissza az összeshez"
   },
   "backupApprovalInfo": {
-    "message": "Ez a titkos kód a tárca helyreállításához szükséges, ha elveszíti eszközét, elfelejti jelszavát, újra kell telepítenie a Neeo Wallet alkalmazást, vagy ha a tárcájához egy másik eszközről szeretne hozzáférni."
+    "message": "Ez a titkos kód a tárca helyreállításához szükséges, ha elveszíti eszközét, elfelejti jelszavát, újra kell telepítenie a ISAB Wallet alkalmazást, vagy ha a tárcájához egy másik eszközről szeretne hozzáférni."
   },
   "backupApprovalNotice": {
     "message": "Készíts biztonsági másolatot titkos helyreállítási kódodról, hogy pénztárcád és pénzalapod biztosítva legyen."
@@ -144,7 +144,7 @@
     "message": "Az ön böngészője nem támogatott..."
   },
   "builtInCalifornia": {
-    "message": "A Neeo Walletot Kaliforniában tervezték és hozták létre."
+    "message": "A ISAB Walletot Kaliforniában tervezték és hozták létre."
   },
   "buyCoinSwitch": {
     "message": "Vegye meg a CoinSwitchen"
@@ -180,7 +180,7 @@
     "message": "A diagram csak Ethereum hálózatokon érhető el"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "A Neeo Wallet-ot Google Chrome-mal kell használnia a Hardveres pénztárcához való csatlakozáshoz."
+    "message": "A ISAB Wallet-ot Google Chrome-mal kell használnia a Hardveres pénztárcához való csatlakozáshoz."
   },
   "clickToRevealSeed": {
     "message": "Kattintson ide a titkos szavak megjelenítéséhez"
@@ -363,7 +363,7 @@
     "message": "Soha ne ossza meg senkivel a mondatot."
   },
   "endOfFlowMessage5": {
-    "message": "Vigyázzon az adathalászokkal! A Neeo Wallet soha nem kéri spontán módon a seed mondatot."
+    "message": "Vigyázzon az adathalászokkal! A ISAB Wallet soha nem kéri spontán módon a seed mondatot."
   },
   "endOfFlowMessage6": {
     "message": "Ha ismét biztonsági másolatot kell készítenie a seed mondatról, megtalálja azt a Beállítások -> Biztonság menüben."
@@ -372,7 +372,7 @@
     "message": "Ha bármilyen kérdése van, vagy valami gyanús dolgot tapasztal, írjon a support@neeoico.com címre."
   },
   "endOfFlowMessage8": {
-    "message": "A Neeo Wallet nem tudta helyreállítani a seed mondatot. Tudjon meg többet."
+    "message": "A ISAB Wallet nem tudta helyreállítani a seed mondatot. Tudjon meg többet."
   },
   "endOfFlowMessage9": {
     "message": "Bővebb információk."
@@ -485,7 +485,7 @@
     "message": "Hardveres tárca csatlakoztatása"
   },
   "hardwareWalletsMsg": {
-    "message": "Válassza ki a Neeo Wallet-kal használni kívánt hardveres pénztárcát"
+    "message": "Válassza ki a ISAB Wallet-kal használni kívánt hardveres pénztárcát"
   },
   "havingTroubleConnecting": {
     "message": "Gond van a csatlakozással?"
@@ -514,7 +514,7 @@
     "message": "Fiók importálása"
   },
   "importAccountMsg": {
-    "message": "Az importált fiókot nem társítjuk az eredetileg létrehozott Neeo Wallet-fiók seed mondatához. További információ az importált fiókokról"
+    "message": "Az importált fiókot nem társítjuk az eredetileg létrehozott ISAB Wallet-fiók seed mondatához. További információ az importált fiókokról"
   },
   "importAccountSeedPhrase": {
     "message": "Fiók importálása seed mondat segítségével"
@@ -624,7 +624,7 @@
     "message": "Csatlakozás az Ethereumhoz és a decentralizált hálózathoz."
   },
   "metamaskVersion": {
-    "message": "Neeo Wallet  verzió"
+    "message": "ISAB Wallet  verzió"
   },
   "mobileSyncText": {
     "message": "Kérünk írd be jelszavad, hogy igazold kiléted!"
@@ -639,10 +639,10 @@
     "message": "Saját tárca fiókjai"
   },
   "myWalletAccountsDescription": {
-    "message": "Az összes Neeo Wallet által létrehozott fiókot automatikusan hozzáadja a munkamenethez."
+    "message": "Az összes ISAB Wallet által létrehozott fiókot automatikusan hozzáadja a munkamenethez."
   },
   "needEtherInWallet": {
-    "message": "Ha a Neeo Walleton keresztül szeretne interakcióba lépni decentralizált alkalmazással, ahhoz a tárcájában Ethernek kell lennie."
+    "message": "Ha a ISAB Walleton keresztül szeretne interakcióba lépni decentralizált alkalmazással, ahhoz a tárcájában Ethernek kell lennie."
   },
   "needImportFile": {
     "message": "Ki kell választania az importálni kívánt fájlt.",
@@ -686,7 +686,7 @@
     "message": "Új jelszó (minimum 8 karakter)"
   },
   "newToMetaMask": {
-    "message": "Új a Neeo Wallet-on?"
+    "message": "Új a ISAB Wallet-on?"
   },
   "newTotal": {
     "message": "Új végösszeg"
@@ -749,7 +749,7 @@
     "message": "Vegyen részt a MetaMetrics-ben"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Vegyél részt a MetaMetricsben, hogy segíts a Neeo Wallet fejlesztésében."
+    "message": "Vegyél részt a MetaMetricsben, hogy segíts a ISAB Wallet fejlesztésében."
   },
   "password": {
     "message": "Jelszó"
@@ -796,7 +796,7 @@
     "message": "Védje kulcsait!"
   },
   "protectYourKeysMessage1": {
-    "message": "Vigyázzod a gyarapítási fázissal - olyan oldalakat jelentettek, amelyek a Neeo Wallet-ot utánozzák. A Neeo Wallet soha nem kéri el a gyarapítási fázisát."
+    "message": "Vigyázzod a gyarapítási fázissal - olyan oldalakat jelentettek, amelyek a ISAB Wallet-ot utánozzák. A ISAB Wallet soha nem kéri el a gyarapítási fázisát."
   },
   "protectYourKeysMessage2": {
     "message": "Őrizze biztonságos helyen a mondatot. Ha bármilyen gyanús dolgot tapasztal, vagy bizonytalan egy weboldalt illetően, írjon a support@neeoico.com címre."
@@ -946,7 +946,7 @@
     "message": "Válasszon fiókot"
   },
   "selectAnAccountHelp": {
-    "message": "Válássza ki a Neeo Wallet-ban megtekinteni kívánt fiókot"
+    "message": "Válássza ki a ISAB Wallet-ban megtekinteni kívánt fiókot"
   },
   "selectCurrency": {
     "message": "Válasszon valutát"
@@ -1096,16 +1096,16 @@
     "message": "Győződjön meg arról, hogy senki nem látja a képernyőt, amikor beolvassa ezt a kódot"
   },
   "syncWithMobileComplete": {
-    "message": "Adatai szinkronizálása sikerült. Élvezze a Neeo Wallet mobilalkalmazást!"
+    "message": "Adatai szinkronizálása sikerült. Élvezze a ISAB Wallet mobilalkalmazást!"
   },
   "syncWithMobileDesc": {
-    "message": "Szinkronizálhatja fiókjait és adatait a mobilkészülékkel. Nyissa meg a Neeo Wallet mobilalkalmazást, lépjen a \"Beállítások\" elemre, majd koppintson a \"Szinkronizálás a böngésző bővítményéből\" elemre."
+    "message": "Szinkronizálhatja fiókjait és adatait a mobilkészülékkel. Nyissa meg a ISAB Wallet mobilalkalmazást, lépjen a \"Beállítások\" elemre, majd koppintson a \"Szinkronizálás a böngésző bővítményéből\" elemre."
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Ha most először nyitja meg a Neeo Wallet mobilalkalmazást, kövesse a telefonon megadott lépéseket."
+    "message": "Ha most először nyitja meg a ISAB Wallet mobilalkalmazást, kövesse a telefonon megadott lépéseket."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Olvasd be ezt a kódot Neeo Wallet mobilalkalmazásoddal"
+    "message": "Olvasd be ezt a kódot ISAB Wallet mobilalkalmazásoddal"
   },
   "syncWithMobileTitle": {
     "message": "Szinkronizálás mobillal"
@@ -1196,7 +1196,7 @@
     "message": "Újra"
   },
   "typePassword": {
-    "message": "Írd be Neeo Wallet jelszavadat"
+    "message": "Írd be ISAB Wallet jelszavadat"
   },
   "unapproved": {
     "message": "Jóvá nem hagyott"
@@ -1259,7 +1259,7 @@
     "message": "Pénztárca kulcsszólánca"
   },
   "welcome": {
-    "message": "Üdvözöljük a Neeo Walletban"
+    "message": "Üdvözöljük a ISAB Walletban"
   },
   "welcomeBack": {
     "message": "Üdvözöljük újra!"

@@ -30,7 +30,7 @@
     "message": "veiklos žurnalas"
   },
   "addAcquiredTokens": {
-    "message": "Pridėkite žetonus, kuriuos gavote naudodamiesi „Neeo Wallet“"
+    "message": "Pridėkite žetonus, kuriuos gavote naudodamiesi „ISAB Wallet“"
   },
   "addAlias": {
     "message": "Pridėti alternatyvųjį vardą"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "„Neeo Wallet“",
+    "message": "„ISAB Wallet“",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Automatinio atjungimo laikmatis (minutės)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Nustatykite laukimo  trukmę minutėmis iki „Neeo Wallet“ automatinio atsijungimo"
+    "message": "Nustatykite laukimo  trukmę minutėmis iki „ISAB Wallet“ automatinio atsijungimo"
   },
   "average": {
     "message": "Vidurkis"
@@ -113,7 +113,7 @@
     "message": "Atgal prie visų"
   },
   "backupApprovalInfo": {
-    "message": "Šis slaptas kodas reikalingas norint atkurti jūsų slaptažodinę, jeigu pamestumėte savo įrenginį, pamirštumėte savo slaptažodį, iš naujo įdiegtumėte „Neeo Wallet“, taip pat norint pasiekti slaptažodinę iš kito įrenginio."
+    "message": "Šis slaptas kodas reikalingas norint atkurti jūsų slaptažodinę, jeigu pamestumėte savo įrenginį, pamirštumėte savo slaptažodį, iš naujo įdiegtumėte „ISAB Wallet“, taip pat norint pasiekti slaptažodinę iš kito įrenginio."
   },
   "backupApprovalNotice": {
     "message": "Pasidarykite atsarginę savo slapto atkūrimo kodo kopiją, kad jūsų slaptažodinė ir fondai būtų saugūs."
@@ -144,7 +144,7 @@
     "message": "Jūsų naršyklė neatpažįstama..."
   },
   "builtInCalifornia": {
-    "message": "„Neeo Wallet“ suprojektuota ir įdiegta Kalifornijoje."
+    "message": "„ISAB Wallet“ suprojektuota ir įdiegta Kalifornijoje."
   },
   "buyCoinSwitch": {
     "message": "Pirkti „CoinSwitch“"
@@ -156,7 +156,7 @@
     "message": "Pirkti ETH su „Wyre“"
   },
   "buyWithWyreDescription": {
-    "message": "„Wyre“ leidžia naudotis kreditine kortele norint įnešti ETH tiesiai į jūsų „Neeo Wallet“ paskyrą."
+    "message": "„Wyre“ leidžia naudotis kreditine kortele norint įnešti ETH tiesiai į jūsų „ISAB Wallet“ paskyrą."
   },
   "bytes": {
     "message": "Baitai"
@@ -180,7 +180,7 @@
     "message": "Diagramos yra tik „Ethereum“ tinkluose."
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Norėdami prisijungti prie aparatinės įrangos slaptažodinės, „Neeo Wallet“ naudokitės „Google Chrome“ naršyklėje."
+    "message": "Norėdami prisijungti prie aparatinės įrangos slaptažodinės, „ISAB Wallet“ naudokitės „Google Chrome“ naršyklėje."
   },
   "clickToRevealSeed": {
     "message": "Spustelėkite čia, kad atidengtumėte slaptus žodžius"
@@ -363,7 +363,7 @@
     "message": "Niekam niekada nepasakykite šios frazės."
   },
   "endOfFlowMessage5": {
-    "message": "Saugokitės informacijos vagių! „Neeo Wallet“ niekada spontaniškai neklaus jūsų atkūrimo frazės."
+    "message": "Saugokitės informacijos vagių! „ISAB Wallet“ niekada spontaniškai neklaus jūsų atkūrimo frazės."
   },
   "endOfFlowMessage6": {
     "message": "Jeigu reikia dar kartą padaryti jūsų atkūrimo frazės kopiją, ją galite rasti pasirinkę Nuostatos -> Sauga."
@@ -372,7 +372,7 @@
     "message": "Jeigu turite klausimų arba pastebite ką nors įtartino, rašykite el. paštu support@neeoico.com."
   },
   "endOfFlowMessage8": {
-    "message": "„Neeo Wallet“ negali atkurti jūsų atkūrimo frazės. Sužinokite daugiau."
+    "message": "„ISAB Wallet“ negali atkurti jūsų atkūrimo frazės. Sužinokite daugiau."
   },
   "endOfFlowMessage9": {
     "message": "Sužinokite daugiau."
@@ -518,7 +518,7 @@
     "message": "Importuoti paskyrą"
   },
   "importAccountMsg": {
-    "message": "Importuotos paskyros nebus susietos su pirmiau sukurta „Neeo Wallet“ paskyros atkūrimo fraze. Sužinokite daugiau apie importuotas paskyras"
+    "message": "Importuotos paskyros nebus susietos su pirmiau sukurta „ISAB Wallet“ paskyros atkūrimo fraze. Sužinokite daugiau apie importuotas paskyras"
   },
   "importAccountSeedPhrase": {
     "message": "Importuoti paskyrą su atkūrimo fraze"
@@ -631,7 +631,7 @@
     "message": "Prijungiame jus prie „Ethereum“ ir decentralizuotojo žiniatinklio."
   },
   "metamaskVersion": {
-    "message": "„Neeo Wallet“ versija"
+    "message": "„ISAB Wallet“ versija"
   },
   "mobileSyncText": {
     "message": "Įveskite savo slaptažodį, kad patvirtintumėte, jog tai tikrai jūs!"
@@ -646,10 +646,10 @@
     "message": "Mano piniginės paskyros"
   },
   "myWalletAccountsDescription": {
-    "message": "Visos jūsų „Neeo Wallet“ sukurtos paskyros bus automatiškai įtrauktos į šį skyrių."
+    "message": "Visos jūsų „ISAB Wallet“ sukurtos paskyros bus automatiškai įtrauktos į šį skyrių."
   },
   "needEtherInWallet": {
-    "message": "Norėdami dirbti su decentralizuotomis programomis „Neeo Wallet“, savo piniginėje turite turėti eterių."
+    "message": "Norėdami dirbti su decentralizuotomis programomis „ISAB Wallet“, savo piniginėje turite turėti eterių."
   },
   "needImportFile": {
     "message": "Turite pasirinkti failą, kurį pageidaujate importuoti.",
@@ -693,7 +693,7 @@
     "message": "Naujas slaptažodis (bent 8 ženklai)"
   },
   "newToMetaMask": {
-    "message": "Tik pradedate naudotis „Neeo Wallet“?"
+    "message": "Tik pradedate naudotis „ISAB Wallet“?"
   },
   "newTotal": {
     "message": "Nauja bendra suma"
@@ -756,7 +756,7 @@
     "message": "Dalyvaukite „MetaMetrics“"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Dalyvaukite „MetaMetrics“ ir padėkite mums tobulinti „Neeo Wallet“"
+    "message": "Dalyvaukite „MetaMetrics“ ir padėkite mums tobulinti „ISAB Wallet“"
   },
   "password": {
     "message": "Slaptažodis"
@@ -803,7 +803,7 @@
     "message": "Apsaugokite savo raktus!"
   },
   "protectYourKeysMessage1": {
-    "message": "Saugokite savo atkūrimo frazę – gavome pranešimų apie interneto svetaines, kuriomis bandoma imituoti „Neeo Wallet“. „Neeo Wallet“ niekada neprašys jūsų pateikti savo atkūrimo frazę!"
+    "message": "Saugokite savo atkūrimo frazę – gavome pranešimų apie interneto svetaines, kuriomis bandoma imituoti „ISAB Wallet“. „ISAB Wallet“ niekada neprašys jūsų pateikti savo atkūrimo frazę!"
   },
   "protectYourKeysMessage2": {
     "message": "Saugokite savo frazę. Jei pastebėjote kažką įtartino arba nesate tikri dėl svetainės, rašykite mums adresu support@neeoico.com"
@@ -953,7 +953,7 @@
     "message": "Pasirinkite paskyrą"
   },
   "selectAnAccountHelp": {
-    "message": "Pasirinkite paskyrą peržiūrėti „Neeo Wallet“"
+    "message": "Pasirinkite paskyrą peržiūrėti „ISAB Wallet“"
   },
   "selectCurrency": {
     "message": "Pasirinkite valiutą"
@@ -1103,16 +1103,16 @@
     "message": "Pasirūpinkite, kad jums nuskaitant šį kodą niekas nežiūrėtų į jūsų ekraną."
   },
   "syncWithMobileComplete": {
-    "message": "Jūsų duomenys sėkmingai sinchronizuoti. Mėgaukitės „Neeo Wallet“ mobiliąja programa! "
+    "message": "Jūsų duomenys sėkmingai sinchronizuoti. Mėgaukitės „ISAB Wallet“ mobiliąja programa! "
   },
   "syncWithMobileDesc": {
-    "message": "Galite sinchronizuoti paskyrą ir informaciją su savo mobiliuoju įrenginiu. Atverkite „Neeo Wallet“ mobiliąją programą, eikite į „Nuostatos“ ir palieskite „Sinchronizuoti iš naršyklės plėtinio“"
+    "message": "Galite sinchronizuoti paskyrą ir informaciją su savo mobiliuoju įrenginiu. Atverkite „ISAB Wallet“ mobiliąją programą, eikite į „Nuostatos“ ir palieskite „Sinchronizuoti iš naršyklės plėtinio“"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Jeigu „Neeo Wallet“ mobiliąją programą atveriate tik pirmą kartą, tiesiog sekite veiksmus telefone."
+    "message": "Jeigu „ISAB Wallet“ mobiliąją programą atveriate tik pirmą kartą, tiesiog sekite veiksmus telefone."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Nuskaitykite šį kodą su savo „Neeo Wallet“ mobiliąja programa"
+    "message": "Nuskaitykite šį kodą su savo „ISAB Wallet“ mobiliąja programa"
   },
   "syncWithMobileTitle": {
     "message": "Sinchronizuoti su mobiliuoju"
@@ -1206,7 +1206,7 @@
     "message": "Bandyti dar kartą"
   },
   "typePassword": {
-    "message": "Įveskite savo „Neeo Wallet“ slaptažodį"
+    "message": "Įveskite savo „ISAB Wallet“ slaptažodį"
   },
   "unapproved": {
     "message": "Nepatvirtinta"
@@ -1269,7 +1269,7 @@
     "message": "Slaptažodinės atkūrimo frazė"
   },
   "welcome": {
-    "message": "Sveiki, tai „Neeo Wallet“"
+    "message": "Sveiki, tai „ISAB Wallet“"
   },
   "welcomeBack": {
     "message": "Sveiki sugrįžę!"

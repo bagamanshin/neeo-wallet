@@ -26,14 +26,14 @@ export default class MetaMetricsOptInModal extends Component {
             <div className="metametrics-opt-in__body-graphic">
               <img src="images/metrics-chart.svg" />
             </div>
-            <div className="metametrics-opt-in__title">Help Us Improve Neeo Wallet</div>
+            <div className="metametrics-opt-in__title">Help Us Improve ISAB Wallet</div>
             <div className="metametrics-opt-in__body">
               <div className="metametrics-opt-in__description">
-                Neeo Wallet would like to gather usage data to better understand how our users interact with the extension. This data
+                ISAB Wallet would like to gather usage data to better understand how our users interact with the extension. This data
                will be used to continually improve the usability and user experience of our product and the Ethereum ecosystem.
               </div>
               <div className="metametrics-opt-in__description">
-                Neeo Wallet will..
+                ISAB Wallet will..
               </div>
 
               <div className="metametrics-opt-in__committments">

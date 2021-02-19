@@ -30,7 +30,7 @@
     "message": "aktivitetslogg"
   },
   "addAcquiredTokens": {
-    "message": "Lägg till de tokens du har skaffat med Neeo Wallet"
+    "message": "Lägg till de tokens du har skaffat med ISAB Wallet"
   },
   "addAlias": {
     "message": "Lägg till alias"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Neeo Wallet",
+    "message": "ISAB Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Timer för automatisk utloggning (minuter)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Ställ in efter hur lång tids inaktivitet som Neeo Wallet automatiskt loggar ut"
+    "message": "Ställ in efter hur lång tids inaktivitet som ISAB Wallet automatiskt loggar ut"
   },
   "average": {
     "message": "Genomsnitt"
@@ -113,7 +113,7 @@
     "message": "Tillbaka till Alla"
   },
   "backupApprovalInfo": {
-    "message": "Den hemliga koden krävs för att komma åt din plånbok ifall du tappar bort din enhet, glömmer ditt lösenord, behöver installera om Neeo Wallet eller om du vill komma åt din plånbok på en annan enhet."
+    "message": "Den hemliga koden krävs för att komma åt din plånbok ifall du tappar bort din enhet, glömmer ditt lösenord, behöver installera om ISAB Wallet eller om du vill komma åt din plånbok på en annan enhet."
   },
   "backupApprovalNotice": {
     "message": "Säkerhetskopiera din hemliga återställningskod för att se till att din plånbok och dina tillgångar är säkra."
@@ -144,7 +144,7 @@
     "message": "Din webbläsare stöds inte..."
   },
   "builtInCalifornia": {
-    "message": "Neeo Wallet  är skapat och utformat i Kalifornien."
+    "message": "ISAB Wallet  är skapat och utformat i Kalifornien."
   },
   "buyCoinSwitch": {
     "message": "Köp på CoinSwitch"
@@ -156,7 +156,7 @@
     "message": "Köp ETH med Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre låter dig använda ett kreditkort för att sätta in ETH direkt på ditt Neeo Wallet-konto."
+    "message": "Wyre låter dig använda ett kreditkort för att sätta in ETH direkt på ditt ISAB Wallet-konto."
   },
   "cancel": {
     "message": "Avbryt"
@@ -174,7 +174,7 @@
     "message": "Tabellen är endast tillgänglig på Ethereum-nätverk."
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Du måste använda Neeo Wallet på Google Chrome för att ansluta till din hårdvaruplånbok."
+    "message": "Du måste använda ISAB Wallet på Google Chrome för att ansluta till din hårdvaruplånbok."
   },
   "clickToRevealSeed": {
     "message": "Klicka här för att visa hemliga ord"
@@ -357,7 +357,7 @@
     "message": "Dela aldrig frasen med någon."
   },
   "endOfFlowMessage5": {
-    "message": "Se upp för nätfiske! Neeo Wallet kommer aldrig att oväntat fråga om din seed phrase."
+    "message": "Se upp för nätfiske! ISAB Wallet kommer aldrig att oväntat fråga om din seed phrase."
   },
   "endOfFlowMessage6": {
     "message": "Om du behöver säkerhetskopiera din nyckelfras igen, kan du hitta den i Inställningar -> Säkerhet"
@@ -366,7 +366,7 @@
     "message": "Om du har frågor eller ser något misstänksamt, skicka ett e-postmeddelande till support@neeoico.com."
   },
   "endOfFlowMessage8": {
-    "message": "Neeo Wallet  kan inte återställa din seedphrase. Läs mer."
+    "message": "ISAB Wallet  kan inte återställa din seedphrase. Läs mer."
   },
   "endOfFlowMessage9": {
     "message": "Lär dig mer."
@@ -479,7 +479,7 @@
     "message": "Anslut en hårdvaruplånbok"
   },
   "hardwareWalletsMsg": {
-    "message": "Välj en hårdvaruplånbok som du vill använda med Neeo Wallet"
+    "message": "Välj en hårdvaruplånbok som du vill använda med ISAB Wallet"
   },
   "havingTroubleConnecting": {
     "message": "Har du problem att ansluta?"
@@ -508,7 +508,7 @@
     "message": "Importera konto"
   },
   "importAccountMsg": {
-    "message": "Importerade konton kommer inte att kopplas till din ursprungligen skapade seedphrase för ditt Neeo Wallet-konto. Läs mer om importerade konton"
+    "message": "Importerade konton kommer inte att kopplas till din ursprungligen skapade seedphrase för ditt ISAB Wallet-konto. Läs mer om importerade konton"
   },
   "importAccountSeedPhrase": {
     "message": "Importera konto med"
@@ -615,7 +615,7 @@
     "message": "Ansluter dig mot Ethereum och den decentraliserade webben."
   },
   "metamaskVersion": {
-    "message": "Neeo Wallet-version"
+    "message": "ISAB Wallet-version"
   },
   "mobileSyncText": {
     "message": "Var vänlig ange ditt lösenord för att bekräfta att det är du!"
@@ -630,10 +630,10 @@
     "message": "Mina plånbokskonton"
   },
   "myWalletAccountsDescription": {
-    "message": "Alla dina Neeo Wallet-skapade konton läggs automatiskt till i denna avdelning."
+    "message": "Alla dina ISAB Wallet-skapade konton läggs automatiskt till i denna avdelning."
   },
   "needEtherInWallet": {
-    "message": "För att interagera med decentraliserade applikationer med Neeo Wallet behöver du Ether i din plånbok."
+    "message": "För att interagera med decentraliserade applikationer med ISAB Wallet behöver du Ether i din plånbok."
   },
   "needImportFile": {
     "message": "Du måste välja en fil att importera.",
@@ -677,7 +677,7 @@
     "message": "Nytt lösenord (minst 8 tecken)"
   },
   "newToMetaMask": {
-    "message": "Ny på Neeo Wallet?"
+    "message": "Ny på ISAB Wallet?"
   },
   "newTotal": {
     "message": "Ny totalsumma"
@@ -740,7 +740,7 @@
     "message": "Delta i MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Delta i MetaMetrics för att hjälpa oss göra Neeo Wallet bättre"
+    "message": "Delta i MetaMetrics för att hjälpa oss göra ISAB Wallet bättre"
   },
   "password": {
     "message": "Lösenord"
@@ -787,7 +787,7 @@
     "message": "Skydda dina nycklar!"
   },
   "protectYourKeysMessage1": {
-    "message": "Var försiktig med din seedfras — det har rapporterats om hemsidor som försöker imitera Neeo Wallet. Neeo Wallet kommer aldrig fråga efter din seedfras!"
+    "message": "Var försiktig med din seedfras — det har rapporterats om hemsidor som försöker imitera ISAB Wallet. ISAB Wallet kommer aldrig fråga efter din seedfras!"
   },
   "protectYourKeysMessage2": {
     "message": "Håll din fras i säkert förvar. Om du ser något misstänksamt eller om du är osäker på en hemsida, skicka ett e-postmeddelande till support@neeoico.com."
@@ -937,7 +937,7 @@
     "message": "Välj ett konto"
   },
   "selectAnAccountHelp": {
-    "message": "Välj konto att visa i Neeo Wallet"
+    "message": "Välj konto att visa i ISAB Wallet"
   },
   "selectCurrency": {
     "message": "Välj valuta"
@@ -1084,16 +1084,16 @@
     "message": "Försäkra dig om att ingen tittar på din skärm när du skannar denna kod"
   },
   "syncWithMobileComplete": {
-    "message": "Din data har nu synkats. Ha det så kul med Neeo Wallets mobil-app!"
+    "message": "Din data har nu synkats. Ha det så kul med ISAB Wallets mobil-app!"
   },
   "syncWithMobileDesc": {
-    "message": "Du kan nu synka dina konton och din information med din mobil-enhet. Öppna Neeo Wallets mobil-app, gå till \"Inställningar\" och tryck på \"Synka från webbläsartillägg\""
+    "message": "Du kan nu synka dina konton och din information med din mobil-enhet. Öppna ISAB Wallets mobil-app, gå till \"Inställningar\" och tryck på \"Synka från webbläsartillägg\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Om du öppnar Neeo Wallet mobilapplikation för första gången behöver du bara följa stegen som visas i telefonen."
+    "message": "Om du öppnar ISAB Wallet mobilapplikation för första gången behöver du bara följa stegen som visas i telefonen."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Skanna den här koden med din Neeo Wallet mobilapplikation"
+    "message": "Skanna den här koden med din ISAB Wallet mobilapplikation"
   },
   "syncWithMobileTitle": {
     "message": "Synka med mobil"
@@ -1181,7 +1181,7 @@
     "message": "Försök igen"
   },
   "typePassword": {
-    "message": "Ange ditt Neeo Wallet-lösenord"
+    "message": "Ange ditt ISAB Wallet-lösenord"
   },
   "unapproved": {
     "message": "Inte godkänd"
@@ -1244,7 +1244,7 @@
     "message": "Plånboksseed"
   },
   "welcome": {
-    "message": "Välkommen till Neeo Wallet"
+    "message": "Välkommen till ISAB Wallet"
   },
   "welcomeBack": {
     "message": "Välkommen tillbaka!"

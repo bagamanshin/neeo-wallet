@@ -30,7 +30,7 @@
     "message": "गतिविधि लॉग"
   },
   "addAcquiredTokens": {
-    "message": "Neeo Wallet  का उपयोग करके आपके द्वारा अर्जित किए गए टोकन जोड़ें"
+    "message": "ISAB Wallet  का उपयोग करके आपके द्वारा अर्जित किए गए टोकन जोड़ें"
   },
   "addAlias": {
     "message": "उपनाम जोड़ें"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Neeo Wallet",
+    "message": "ISAB Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -156,7 +156,7 @@
     "message": "Wyre से ETH खरीदें"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre आपको क्रेडिट कार्ड का उपयोग करके ETH को सीधे आपके Neeo Wallet खाते में जमा करने देता है।"
+    "message": "Wyre आपको क्रेडिट कार्ड का उपयोग करके ETH को सीधे आपके ISAB Wallet खाते में जमा करने देता है।"
   },
   "bytes": {
     "message": "बाइट"
@@ -180,7 +180,7 @@
     "message": "केवल ईथरअम नेटवर्क पर उपलब्ध चार्ट।"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "अपने हार्डवेयर वॉलेट से कनेक्ट करने के लिए आपको Google Chrome में Neeo Wallet का उपयोग करना ज़रूरी है।"
+    "message": "अपने हार्डवेयर वॉलेट से कनेक्ट करने के लिए आपको Google Chrome में ISAB Wallet का उपयोग करना ज़रूरी है।"
   },
   "clickToRevealSeed": {
     "message": "सीक्रेट शब्दों को जानने के लिए यहाँ क्लिक करें"
@@ -489,7 +489,7 @@
     "message": "हार्डवेयर वॉलेट जोड़े"
   },
   "hardwareWalletsMsg": {
-    "message": "एक हार्डवेयर वॉलेट चुनें जिसका उपयोग आप Neeo Wallet के साथ करना चाहते हैं"
+    "message": "एक हार्डवेयर वॉलेट चुनें जिसका उपयोग आप ISAB Wallet के साथ करना चाहते हैं"
   },
   "havingTroubleConnecting": {
     "message": "कनेक्ट करने में परेशानी हो रही है?"
@@ -518,7 +518,7 @@
     "message": "खाता आयात करें"
   },
   "importAccountMsg": {
-    "message": "आयात किए गए खाते आपके मुख्य रूप से बनाए गए Neeo Wallet खाते के सीडफ़्रेज़ से संबंधित नहीं होंगे। आयात किए गए खातों के बारे में अधिक जानें"
+    "message": "आयात किए गए खाते आपके मुख्य रूप से बनाए गए ISAB Wallet खाते के सीडफ़्रेज़ से संबंधित नहीं होंगे। आयात किए गए खातों के बारे में अधिक जानें"
   },
   "importAccountSeedPhrase": {
     "message": "बीज वाक्यांश के साथ एक खाता आयात करें"
@@ -628,7 +628,7 @@
     "message": "आपको Ethereum और विकेंद्रीकृत वेब से कनेक्ट कर रहे हैं।"
   },
   "metamaskVersion": {
-    "message": "Neeo Wallet  का संस्करण"
+    "message": "ISAB Wallet  का संस्करण"
   },
   "mobileSyncText": {
     "message": "यह आप ही हैं इसकी पुष्टि करने के लिए कृपया अपना पासवर्ड दर्ज करें!"
@@ -690,7 +690,7 @@
     "message": "नया पासवर्ड (कम से कम 8 अक्षर)"
   },
   "newToMetaMask": {
-    "message": "Neeo Wallet  में नए है?"
+    "message": "ISAB Wallet  में नए है?"
   },
   "newTotal": {
     "message": "नया कुल"
@@ -753,7 +753,7 @@
     "message": "मेटामेट्रिक्स में भाग लें"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Neeo Wallet  को बेहतर बनाने में हमारी मदद के लिए MetaMetrics में भाग लें"
+    "message": "ISAB Wallet  को बेहतर बनाने में हमारी मदद के लिए MetaMetrics में भाग लें"
   },
   "password": {
     "message": "पासवर्ड"
@@ -800,7 +800,7 @@
     "message": "अपनी कुंजी को सुरक्षित रखें!"
   },
   "protectYourKeysMessage1": {
-    "message": "अपने सीड फ़्रेज़ के बारे में सावधान रहें — ऐसी वेबसाइटों की रिपोर्टें आई हैं जो Neeo Wallet की नकल करने का प्रयास करती हैं। Neeo Wallet आपके सीड फ़्रेज़ के बारे में कभी नहीं पूछेगा!"
+    "message": "अपने सीड फ़्रेज़ के बारे में सावधान रहें — ऐसी वेबसाइटों की रिपोर्टें आई हैं जो ISAB Wallet की नकल करने का प्रयास करती हैं। ISAB Wallet आपके सीड फ़्रेज़ के बारे में कभी नहीं पूछेगा!"
   },
   "protectYourKeysMessage2": {
     "message": "अपने वाक्यांश को सुरक्षित रखें। यदि आपको कुछ गड़बड़ दिखती है, या आप किसी वेबसाइट के बारे में अनिश्चित हैं तो support@neeoico.com को ई मेल करें\n"
@@ -1263,7 +1263,7 @@
     "message": "वॉलेट सीड"
   },
   "welcome": {
-    "message": "Neeo Wallet  में आपका स्वागत है"
+    "message": "ISAB Wallet  में आपका स्वागत है"
   },
   "welcomeBack": {
     "message": "वापस आने पर स्वागत है!"

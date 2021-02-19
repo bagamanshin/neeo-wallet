@@ -30,7 +30,7 @@
     "message": "log aktivitas"
   },
   "addAcquiredTokens": {
-    "message": "Tambahkan token yang sudah Anda peroleh menggunakan Neeo Wallet"
+    "message": "Tambahkan token yang sudah Anda peroleh menggunakan ISAB Wallet"
   },
   "addAlias": {
     "message": "Tambah alias"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Neeo Wallet",
+    "message": "ISAB Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Jangka Waktu Keluar-Otomatis (menit)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Atur waktu diam dalam menit sebelum Neeo Wallet mengeluarkan Anda secara otomatis"
+    "message": "Atur waktu diam dalam menit sebelum ISAB Wallet mengeluarkan Anda secara otomatis"
   },
   "average": {
     "message": "Rata-rata"
@@ -113,7 +113,7 @@
     "message": "Kembali ke Semua"
   },
   "backupApprovalInfo": {
-    "message": "Kode rahasia Anda diperlukan untuk memulihkan dompet jika perangkat hilang, lupa sandi, harus menginstal ulang Neeo Wallet, atau ingin mengakses dompet Anda di perangkat lain."
+    "message": "Kode rahasia Anda diperlukan untuk memulihkan dompet jika perangkat hilang, lupa sandi, harus menginstal ulang ISAB Wallet, atau ingin mengakses dompet Anda di perangkat lain."
   },
   "backupApprovalNotice": {
     "message": "Cadangkan kode Pemulihan Rahasia guna mengamankan dompet dan dana Anda."
@@ -144,7 +144,7 @@
     "message": "Peramban Anda tidak didukung..."
   },
   "builtInCalifornia": {
-    "message": "Neeo Wallet  dirancang dan dibangun di California."
+    "message": "ISAB Wallet  dirancang dan dibangun di California."
   },
   "buyCoinSwitch": {
     "message": "Beli di CoinSwitch"
@@ -156,7 +156,7 @@
     "message": "Membeli ETH dengan Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre mengizinkan Anda menggunakan kartu kredit untuk mendepositkan ETH langsung ke akun  Neeo Wallet."
+    "message": "Wyre mengizinkan Anda menggunakan kartu kredit untuk mendepositkan ETH langsung ke akun  ISAB Wallet."
   },
   "bytes": {
     "message": "Byte"
@@ -180,7 +180,7 @@
     "message": "Grafik hanya tersedia pada jaringan Ethereum."
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Anda harus menggunakan Neeo Wallet di Google Chrome untuk menyambung ke dompet Perangkat Keras Anda."
+    "message": "Anda harus menggunakan ISAB Wallet di Google Chrome untuk menyambung ke dompet Perangkat Keras Anda."
   },
   "clickToRevealSeed": {
     "message": "Klik di sini untuk mengungkapkan kata-kata rahasia"
@@ -354,7 +354,7 @@
     "message": "Jangan pernah bagikan frasa dengan siapa pun."
   },
   "endOfFlowMessage5": {
-    "message": "Hati-hati terhadap phishing! Neeo Wallet tidak akan pernah meminta frasa benih Anda secara spontan."
+    "message": "Hati-hati terhadap phishing! ISAB Wallet tidak akan pernah meminta frasa benih Anda secara spontan."
   },
   "endOfFlowMessage6": {
     "message": "Jika Anda perlu mencadangkan frase seed lagi, Anda dapat menemukannya dalam Pengaturan -> Keamanan."
@@ -363,7 +363,7 @@
     "message": "Jika Anda punya pertanyaan atau melihat sesuatu yang ganjil, kirimkan email ke support@neeoico.com."
   },
   "endOfFlowMessage8": {
-    "message": "Neeo Wallet  tidak dapat memulihkan frasa seed Anda. Pelajari lebih lanjut."
+    "message": "ISAB Wallet  tidak dapat memulihkan frasa seed Anda. Pelajari lebih lanjut."
   },
   "endOfFlowMessage9": {
     "message": "Pelajari lebih lanjut."
@@ -476,7 +476,7 @@
     "message": "Hubungkan dompet peranti keras"
   },
   "hardwareWalletsMsg": {
-    "message": "Pilih dompet hardware yang ingin Anda pakai dengan Neeo Wallet"
+    "message": "Pilih dompet hardware yang ingin Anda pakai dengan ISAB Wallet"
   },
   "havingTroubleConnecting": {
     "message": "Kesulitan menghubungkan?"
@@ -505,7 +505,7 @@
     "message": "Impor Akun"
   },
   "importAccountMsg": {
-    "message": "Akun impor tidak akan dihubungkan dengan frasa benih akun Neeo Wallet yang diciptakan pertama kali. Pelajari lebih lanjut tentang akun impor"
+    "message": "Akun impor tidak akan dihubungkan dengan frasa benih akun ISAB Wallet yang diciptakan pertama kali. Pelajari lebih lanjut tentang akun impor"
   },
   "importAccountSeedPhrase": {
     "message": "Impor Akun dengan Frasa Benih"
@@ -612,7 +612,7 @@
     "message": "Menghubungkan Anda ke Ethereum dan Web Terdesentralisasi."
   },
   "metamaskVersion": {
-    "message": "Versi Neeo Wallet"
+    "message": "Versi ISAB Wallet"
   },
   "mobileSyncText": {
     "message": "Harap masukkan sandi untuk mengonfirmasi ini memang Anda!"
@@ -627,10 +627,10 @@
     "message": "Akun Dompet Saya"
   },
   "myWalletAccountsDescription": {
-    "message": "Semua akun Anda yang dibuat oleh Neeo Wallet otomatis akan ditambahkan ke bagian ini."
+    "message": "Semua akun Anda yang dibuat oleh ISAB Wallet otomatis akan ditambahkan ke bagian ini."
   },
   "needEtherInWallet": {
-    "message": "Untuk berinteraksi dengan aplikasi terdesentralisasi menggunakan Neeo Wallet, Anda memerlukan adanya Ether di dompet Anda."
+    "message": "Untuk berinteraksi dengan aplikasi terdesentralisasi menggunakan ISAB Wallet, Anda memerlukan adanya Ether di dompet Anda."
   },
   "needImportFile": {
     "message": "Anda harus memilih berkas untuk diimpor.",
@@ -674,7 +674,7 @@
     "message": "Kata Sandi Baru (min 8 karakter)"
   },
   "newToMetaMask": {
-    "message": "Baru di Neeo Wallet?"
+    "message": "Baru di ISAB Wallet?"
   },
   "newTotal": {
     "message": "Total Baru"
@@ -737,7 +737,7 @@
     "message": "Berpartisipasilah di MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Berpartisipasilah dalam MetaMetrics guna membantu kami menjadikan Neeo Wallet lebih baik"
+    "message": "Berpartisipasilah dalam MetaMetrics guna membantu kami menjadikan ISAB Wallet lebih baik"
   },
   "password": {
     "message": "Sandi"
@@ -784,7 +784,7 @@
     "message": "Lindungi Kunci Anda!"
   },
   "protectYourKeysMessage1": {
-    "message": "Berhati-hatilah dengan frasa seed Anda — terdapat laporan tentang website yang coba mengimitasi Neeo Wallet. Neeo Wallet tidak akan pernah meminta frasa seed Anda!"
+    "message": "Berhati-hatilah dengan frasa seed Anda — terdapat laporan tentang website yang coba mengimitasi ISAB Wallet. ISAB Wallet tidak akan pernah meminta frasa seed Anda!"
   },
   "protectYourKeysMessage2": {
     "message": "Jaga keamanan frasa Anda. Jika Anda menemukan sesuatu yang mencurigakan, atau ragu dengan sebuah situs web, kirim surel ke support@neeoico.com"
@@ -934,7 +934,7 @@
     "message": "Pilih Akun"
   },
   "selectAnAccountHelp": {
-    "message": "Pilih akun untuk dilihat di Neeo Wallet"
+    "message": "Pilih akun untuk dilihat di ISAB Wallet"
   },
   "selectCurrency": {
     "message": "Pilih Mata Uang"
@@ -1084,16 +1084,16 @@
     "message": "Pastikan tidak ada yang melihat ke layar ketika kode ini Anda pindai"
   },
   "syncWithMobileComplete": {
-    "message": "Data Anda telah berhasil disinkronkan. Nikmati aplikasi mobile Neeo Wallet!"
+    "message": "Data Anda telah berhasil disinkronkan. Nikmati aplikasi mobile ISAB Wallet!"
   },
   "syncWithMobileDesc": {
-    "message": "Anda dapat menyinkronkan akun dan informasi Anda dengan perangkat seluler. Buka aplikasi seluler Neeo Wallet, pilih \"Pengaturan\" lalu ketuk \"Sinkronkan dari Ekstensi Peramban\""
+    "message": "Anda dapat menyinkronkan akun dan informasi Anda dengan perangkat seluler. Buka aplikasi seluler ISAB Wallet, pilih \"Pengaturan\" lalu ketuk \"Sinkronkan dari Ekstensi Peramban\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Jika Anda baru saja membuka aplikasi Neeo Wallet Mobile untuk pertama kali, ikuti langkah-langkah pada ponsel Anda."
+    "message": "Jika Anda baru saja membuka aplikasi ISAB Wallet Mobile untuk pertama kali, ikuti langkah-langkah pada ponsel Anda."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Pindai kode ini dengan aplikasi ponsel Neeo Wallet "
+    "message": "Pindai kode ini dengan aplikasi ponsel ISAB Wallet "
   },
   "syncWithMobileTitle": {
     "message": "Sinkronkan dengan seluler"
@@ -1178,7 +1178,7 @@
     "message": "Coba lagi"
   },
   "typePassword": {
-    "message": "Ketik kata sandi Neeo Wallet Anda"
+    "message": "Ketik kata sandi ISAB Wallet Anda"
   },
   "unapproved": {
     "message": "Tak disetujui"
@@ -1241,7 +1241,7 @@
     "message": "Benih Dompet"
   },
   "welcome": {
-    "message": "Selamat Datang di Neeo Wallet"
+    "message": "Selamat Datang di ISAB Wallet"
   },
   "welcomeBack": {
     "message": "Selamat Datang Kembali!"

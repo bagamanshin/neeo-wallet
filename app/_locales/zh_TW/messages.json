@@ -30,7 +30,7 @@
     "message": "活動紀錄"
   },
   "addAcquiredTokens": {
-    "message": "將您已經擁有的代幣顯示於 Neeo Wallet"
+    "message": "將您已經擁有的代幣顯示於 ISAB Wallet"
   },
   "addAlias": {
     "message": "新增化名"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Neeo Wallet",
+    "message": "ISAB Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "自動登出計時器（分）"
   },
   "autoLockTimeLimitDescription": {
-    "message": "設定閒置分鐘上限，時間到時 Neeo Wallet 將自動登出"
+    "message": "設定閒置分鐘上限，時間到時 ISAB Wallet 將自動登出"
   },
   "average": {
     "message": "平均"
@@ -113,7 +113,7 @@
     "message": "回到所有"
   },
   "backupApprovalInfo": {
-    "message": "在裝置遺失、忘記密碼、需要重新安裝 Neeo Wallet、或是想在另一裝置開啟錢包的情形下，你需要此秘密代碼來復原錢包。"
+    "message": "在裝置遺失、忘記密碼、需要重新安裝 ISAB Wallet、或是想在另一裝置開啟錢包的情形下，你需要此秘密代碼來復原錢包。"
   },
   "backupApprovalNotice": {
     "message": "備份你的秘密還原代碼，安全防護錢包與資金。"
@@ -144,7 +144,7 @@
     "message": "您的瀏覽器尚未支援..."
   },
   "builtInCalifornia": {
-    "message": "Neeo Wallet  是在加州設計製造"
+    "message": "ISAB Wallet  是在加州設計製造"
   },
   "buyCoinSwitch": {
     "message": "在CoinSwitch上购买"
@@ -156,7 +156,7 @@
     "message": "用 Wyre 購買 ETH"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre 讓你使用信用卡在 Neeo Wallet 帳號中直接存入 ETH。"
+    "message": "Wyre 讓你使用信用卡在 ISAB Wallet 帳號中直接存入 ETH。"
   },
   "bytes": {
     "message": "位元組"
@@ -180,7 +180,7 @@
     "message": "圖表僅適用於以太坊網路。"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "您需要在 Google Chrome 瀏覽器使用 Neeo Wallet 連結您的硬體錢包"
+    "message": "您需要在 Google Chrome 瀏覽器使用 ISAB Wallet 連結您的硬體錢包"
   },
   "clickToRevealSeed": {
     "message": "點選顯示助憶詞"
@@ -363,7 +363,7 @@
     "message": "不要分享此助記祠給任何人"
   },
   "endOfFlowMessage5": {
-    "message": "小心網路釣魚！Neeo Wallet 永遠不會主動詢問你的助記詞。"
+    "message": "小心網路釣魚！ISAB Wallet 永遠不會主動詢問你的助記詞。"
   },
   "endOfFlowMessage6": {
     "message": "如你需要再次備份助記詞，可至設定 -> 安全。"
@@ -372,7 +372,7 @@
     "message": "如你有任何問題或察覺有異，請寄信給 support@neeoico.com"
   },
   "endOfFlowMessage8": {
-    "message": "Neeo Wallet  無法還原你的助記詞。暸解更多"
+    "message": "ISAB Wallet  無法還原你的助記詞。暸解更多"
   },
   "endOfFlowMessage9": {
     "message": "深入瞭解。"
@@ -489,7 +489,7 @@
     "message": "連線硬體錢包"
   },
   "hardwareWalletsMsg": {
-    "message": "選擇要連線到 Neeo Wallet 的硬體錢包"
+    "message": "選擇要連線到 ISAB Wallet 的硬體錢包"
   },
   "havingTroubleConnecting": {
     "message": "無法正確連線?"
@@ -518,7 +518,7 @@
     "message": "匯入帳戶"
   },
   "importAccountMsg": {
-    "message": " 匯入的帳戶與您原有 Neeo Wallet 帳戶的助憶詞並無關聯。請查看與匯入帳戶相關的資料 "
+    "message": " 匯入的帳戶與您原有 ISAB Wallet 帳戶的助憶詞並無關聯。請查看與匯入帳戶相關的資料 "
   },
   "importAccountSeedPhrase": {
     "message": "利用助憶詞還原"
@@ -625,10 +625,10 @@
     "message": "訊息"
   },
   "metamaskDescription": {
-    "message": "Neeo Wallet  是乙太坊安全身份識別金庫"
+    "message": "ISAB Wallet  是乙太坊安全身份識別金庫"
   },
   "metamaskVersion": {
-    "message": "Neeo Wallet  版本"
+    "message": "ISAB Wallet  版本"
   },
   "mobileSyncText": {
     "message": "請輸入密碼確認身份！"
@@ -643,10 +643,10 @@
     "message": "我的錢包帳號"
   },
   "myWalletAccountsDescription": {
-    "message": "所有你在 Neeo Wallet 創建的帳號將自動新增到此區塊。"
+    "message": "所有你在 ISAB Wallet 創建的帳號將自動新增到此區塊。"
   },
   "needEtherInWallet": {
-    "message": "要使用 Neeo Wallet 存取去中心化應用服務時，您的錢包中需要有乙太幣。"
+    "message": "要使用 ISAB Wallet 存取去中心化應用服務時，您的錢包中需要有乙太幣。"
   },
   "needImportFile": {
     "message": "您必須選擇一個檔案來匯入",
@@ -690,7 +690,7 @@
     "message": "新密碼（至少8個字元）"
   },
   "newToMetaMask": {
-    "message": "新來到 Neeo Wallet？"
+    "message": "新來到 ISAB Wallet？"
   },
   "newTotal": {
     "message": "總費用"
@@ -747,7 +747,7 @@
     "message": "參與 MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "參與 MetaMetrics 來協助我們打造更好的 Neeo Wallet"
+    "message": "參與 MetaMetrics 來協助我們打造更好的 ISAB Wallet"
   },
   "password": {
     "message": "密碼"
@@ -791,7 +791,7 @@
     "message": "保護你的鑰匙！"
   },
   "protectYourKeysMessage1": {
-    "message": "小心保管你的註記詞—我們接到報告有網站嘗試模仿 Neeo Wallet。Neeo Wallet 永遠不會詢問你的助記詞！"
+    "message": "小心保管你的註記詞—我們接到報告有網站嘗試模仿 ISAB Wallet。ISAB Wallet 永遠不會詢問你的助記詞！"
   },
   "protectYourKeysMessage2": {
     "message": "安全存放你的助記詞。如你察覺有異，或你對某網站起疑，請寄信給 support@neeoico.com"
@@ -1082,16 +1082,16 @@
     "message": "掃描代碼時確保沒有其他人在看你的螢幕"
   },
   "syncWithMobileComplete": {
-    "message": "你的資料已成功同步。開始活用 Neeo Wallet 移動 app！"
+    "message": "你的資料已成功同步。開始活用 ISAB Wallet 移動 app！"
   },
   "syncWithMobileDesc": {
-    "message": "你可以用移動裝置同步帳號與資訊。開啟 Neeo Wallet 移動 app，至「設定」並點擊「自瀏覽器擴充功能同步」"
+    "message": "你可以用移動裝置同步帳號與資訊。開啟 ISAB Wallet 移動 app，至「設定」並點擊「自瀏覽器擴充功能同步」"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "如你是第一次開啟 Neeo Wallet 移動 app，只要跟著手機上的指示操作即可。"
+    "message": "如你是第一次開啟 ISAB Wallet 移動 app，只要跟著手機上的指示操作即可。"
   },
   "syncWithMobileScanThisCode": {
-    "message": "用你的 Neeo Wallet 移動 app 掃描此代碼"
+    "message": "用你的 ISAB Wallet 移動 app 掃描此代碼"
   },
   "syncWithMobileTitle": {
     "message": "和移動裝置同步"
@@ -1248,7 +1248,7 @@
     "message": "助憶詞"
   },
   "welcome": {
-    "message": "歡迎來到 Neeo Wallet"
+    "message": "歡迎來到 ISAB Wallet"
   },
   "welcomeBack": {
     "message": "歡迎回來!"

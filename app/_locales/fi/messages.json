@@ -30,7 +30,7 @@
     "message": "toimintaloki"
   },
   "addAcquiredTokens": {
-    "message": "Lisää Neeo Walletia käyttämällä hankkimasi tietueet"
+    "message": "Lisää ISAB Walletia käyttämällä hankkimasi tietueet"
   },
   "addAlias": {
     "message": "Lisää alias"
@@ -73,7 +73,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Neeo Wallet",
+    "message": "ISAB Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Automaattisen uloskirjautumisen ajastin (minuuttia)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Määritä, montako minuuttia Neeo Wallet on ollut joutilaana ennen kuin sinut kirjataan automaattisesti ulos"
+    "message": "Määritä, montako minuuttia ISAB Wallet on ollut joutilaana ennen kuin sinut kirjataan automaattisesti ulos"
   },
   "average": {
     "message": "Keskiverto"
@@ -113,7 +113,7 @@
     "message": "Takaisin kaikkiin"
   },
   "backupApprovalInfo": {
-    "message": "Tämä salainen koodi vaaditaan kukkarosi palauttamiseen siinä tapauksessa, että kadotat laitteesi, unohdat salasanasi, joudut asentamaan Neeo Walletin uudestaan tai haluat käyttää lompakkoasi jollakin toisella laitteella."
+    "message": "Tämä salainen koodi vaaditaan kukkarosi palauttamiseen siinä tapauksessa, että kadotat laitteesi, unohdat salasanasi, joudut asentamaan ISAB Walletin uudestaan tai haluat käyttää lompakkoasi jollakin toisella laitteella."
   },
   "backupApprovalNotice": {
     "message": "Varmuuskopioi salainen palautuskoodisi pitääksesi kukkarosi ja varasi turvassa."
@@ -144,7 +144,7 @@
     "message": "Selaintasi ei tueta..."
   },
   "builtInCalifornia": {
-    "message": "Neeo Wallet  on suunniteltu ja koottu Kaliforniassa."
+    "message": "ISAB Wallet  on suunniteltu ja koottu Kaliforniassa."
   },
   "buyCoinSwitch": {
     "message": "Osta CoinSwitchissa"
@@ -156,7 +156,7 @@
     "message": "Osta ETH:ta Wyrella"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre antaa sinun käyttää luottokorttia, jotta voit tallettaa ETH:ta suoraan Neeo Wallet-tilillesi."
+    "message": "Wyre antaa sinun käyttää luottokorttia, jotta voit tallettaa ETH:ta suoraan ISAB Wallet-tilillesi."
   },
   "bytes": {
     "message": "Tavua"
@@ -180,7 +180,7 @@
     "message": "Kaavio saatavilla vain Ethereum-verkoissa."
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Sinun tarvitsee käyttää Neeo Walletia Google Chromessa voidaksesi yhdistää laitteistokukkaroosi."
+    "message": "Sinun tarvitsee käyttää ISAB Walletia Google Chromessa voidaksesi yhdistää laitteistokukkaroosi."
   },
   "clickToRevealSeed": {
     "message": "Paljasta salaiset sanat napsauttamalla tästä"
@@ -363,7 +363,7 @@
     "message": "Älä koskaan luovuta lausetta kenellekään."
   },
   "endOfFlowMessage5": {
-    "message": "Varo tietojenkalastelua! Neeo Wallet ei koskaan pyydä spontaanisti siemenlausettasi."
+    "message": "Varo tietojenkalastelua! ISAB Wallet ei koskaan pyydä spontaanisti siemenlausettasi."
   },
   "endOfFlowMessage6": {
     "message": "Jos tarvitse uuden varmuuskopion juurilauseestasi, niin se löytyy osiosta Asetukset -> Turvallisuus."
@@ -372,7 +372,7 @@
     "message": "Jos sinulla on joskus jotakin kysyttävää tai jos näet jotakin epäilyttävää, lähetä sähköpostia osoitteeseen support@neeoico.com."
   },
   "endOfFlowMessage8": {
-    "message": "Neeo Wallet  ei pysty palauttamaan salaustekstiäsi. Lue lisää."
+    "message": "ISAB Wallet  ei pysty palauttamaan salaustekstiäsi. Lue lisää."
   },
   "endOfFlowMessage9": {
     "message": "Lue lisää."
@@ -489,7 +489,7 @@
     "message": "Yhdistä kiinteän laitteiston lompakko"
   },
   "hardwareWalletsMsg": {
-    "message": "Valitse laitteistokukkaro, jota haluaisit käyttää Neeo Walletilla"
+    "message": "Valitse laitteistokukkaro, jota haluaisit käyttää ISAB Walletilla"
   },
   "havingTroubleConnecting": {
     "message": "Onko sinulla yhdistämisvaikeuksia?"
@@ -518,7 +518,7 @@
     "message": "Tuo tili"
   },
   "importAccountMsg": {
-    "message": "Tuotuja tilejä ei liitetä alkuperäisen Neeo Wallet-tilisi siemenlauseeseen. Lue lisää tuoduista tileistä"
+    "message": "Tuotuja tilejä ei liitetä alkuperäisen ISAB Wallet-tilisi siemenlauseeseen. Lue lisää tuoduista tileistä"
   },
   "importAccountSeedPhrase": {
     "message": "Tuo tili siemenlauseella"
@@ -631,7 +631,7 @@
     "message": "Sinua yhdistetään Ethereumiin ja hajautettuun verkkoon."
   },
   "metamaskVersion": {
-    "message": "Neeo Wallet-versio"
+    "message": "ISAB Wallet-versio"
   },
   "mobileSyncText": {
     "message": "Vahvista henkilöllisyytesi antamalla salasanasi!"
@@ -646,7 +646,7 @@
     "message": "Omat kukkarotilini"
   },
   "myWalletAccountsDescription": {
-    "message": "Kaikki Neeo Walletilla luodut tilisi lisätään automaattisesti tähän osastoon."
+    "message": "Kaikki ISAB Walletilla luodut tilisi lisätään automaattisesti tähän osastoon."
   },
   "needEtherInWallet": {
     "message": "Ollaksesi vuorovaikutuksessa hajautettujen sovellusten kanssa sinulla on oltava lompakossasi Ether."
@@ -693,7 +693,7 @@
     "message": "Uusi salasana (väh. 8 merkkiä)"
   },
   "newToMetaMask": {
-    "message": "Onko Neeo Wallet ennestään outo?"
+    "message": "Onko ISAB Wallet ennestään outo?"
   },
   "newTotal": {
     "message": "Uusi kokonaissumma"
@@ -753,7 +753,7 @@
     "message": "Osallistu MetaMetricsiin"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Osallistu MetaMetricsiin auttaaksesi meitä tekemään Neeo Walletista paremman"
+    "message": "Osallistu MetaMetricsiin auttaaksesi meitä tekemään ISAB Walletista paremman"
   },
   "password": {
     "message": "Salasana"
@@ -800,7 +800,7 @@
     "message": "Suojele avaimiasi!"
   },
   "protectYourKeysMessage1": {
-    "message": "Ole varovainen salausavaimesi kanssa – joidenkin verkkosivustojen kerrotaan yrittäneen matkia Neeo Walletia. Neeo Wallet ei koskaan kysy salausavaintasi!"
+    "message": "Ole varovainen salausavaimesi kanssa – joidenkin verkkosivustojen kerrotaan yrittäneen matkia ISAB Walletia. ISAB Wallet ei koskaan kysy salausavaintasi!"
   },
   "protectYourKeysMessage2": {
     "message": "Pidä lauseesi tallessa. Jos näet jotain epäilyttävää tai et ole varma jostain sivustosta, lähetä sähköpostia osoitteeseen support@neeoico.com"
@@ -950,7 +950,7 @@
     "message": "Valitse tili"
   },
   "selectAnAccountHelp": {
-    "message": "Valitse Neeo Walletissa näytettävä tili"
+    "message": "Valitse ISAB Walletissa näytettävä tili"
   },
   "selectCurrency": {
     "message": "Valitse valuutta"
@@ -1100,16 +1100,16 @@
     "message": "Varmista, ettei kukaan muu katsele näyttöäsi, kun skannaat koodin"
   },
   "syncWithMobileComplete": {
-    "message": "Tietojesi synkronoiminen onnistui. Nauti Neeo Wallet-mobiilisovelluksesta!"
+    "message": "Tietojesi synkronoiminen onnistui. Nauti ISAB Wallet-mobiilisovelluksesta!"
   },
   "syncWithMobileDesc": {
-    "message": "Voit synkronoida tilisi ja tietosi mobiililaitteidesi kesken. Avaa Neeo Walletin mobiilisovellus, siirry \"Asetukset\"-osioon ja napauta \"Synkronoi selainlaajennuksesta\" -vaihtoehtoa"
+    "message": "Voit synkronoida tilisi ja tietosi mobiililaitteidesi kesken. Avaa ISAB Walletin mobiilisovellus, siirry \"Asetukset\"-osioon ja napauta \"Synkronoi selainlaajennuksesta\" -vaihtoehtoa"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Jos avaat Neeo Walletin mobiilisovelluksen vasta ensimmäistä kertaa, noudata vain puhelimesi ilmoittamia vaiheita."
+    "message": "Jos avaat ISAB Walletin mobiilisovelluksen vasta ensimmäistä kertaa, noudata vain puhelimesi ilmoittamia vaiheita."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Lue tämä koodi Neeo Wallet-mobiilisovelluksellasi"
+    "message": "Lue tämä koodi ISAB Wallet-mobiilisovelluksellasi"
   },
   "syncWithMobileTitle": {
     "message": "Synkronoi mobiililaitteen kanssa"
@@ -1203,7 +1203,7 @@
     "message": "Yritä uudelleen"
   },
   "typePassword": {
-    "message": "Kirjoita Neeo Wallet-salasanasi"
+    "message": "Kirjoita ISAB Wallet-salasanasi"
   },
   "unapproved": {
     "message": "Ei hyväksytty"
@@ -1266,7 +1266,7 @@
     "message": "Lompakon siemen"
   },
   "welcome": {
-    "message": "Tervetuloa Neeo Walletiin"
+    "message": "Tervetuloa ISAB Walletiin"
   },
   "welcomeBack": {
     "message": "Tervetuloa takaisin!"

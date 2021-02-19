@@ -22,7 +22,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Neeo Wallet",
+    "message": "ISAB Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -44,7 +44,7 @@
     "message": "Usar Blockies Identicon"
   },
   "builtInCalifornia": {
-    "message": "Neeo Wallet  é desenhada e construída na California."
+    "message": "ISAB Wallet  é desenhada e construída na California."
   },
   "buyCoinSwitch": {
     "message": "Comprar no CoinSwitch"
@@ -178,7 +178,7 @@
     "message": "Importar Conta"
   },
   "importAccountMsg": {
-    "message": "Contas importadas não irão ser associadas com a frase seed da conta criada originalmente pelo Neeo Wallet. Saiba mais sobre contas importadas."
+    "message": "Contas importadas não irão ser associadas com a frase seed da conta criada originalmente pelo ISAB Wallet. Saiba mais sobre contas importadas."
   },
   "imported": {
     "message": "Importado",
@@ -231,7 +231,7 @@
     "message": "Mensagem"
   },
   "metamaskDescription": {
-    "message": "O Neeo Wallet é um lugar seguro para guardar a sua identidade em em Ethereum."
+    "message": "O ISAB Wallet é um lugar seguro para guardar a sua identidade em em Ethereum."
   },
   "mustSelectOne": {
     "message": "Deve escolher no mínimo 1 token."
@@ -240,7 +240,7 @@
     "message": "As minhas contas"
   },
   "needEtherInWallet": {
-    "message": "Para interagir com applicações descentralizadas usando Neeo Wallet tem de ter Ether na sua carteira."
+    "message": "Para interagir com applicações descentralizadas usando ISAB Wallet tem de ter Ether na sua carteira."
   },
   "needImportFile": {
     "message": "Deve selecionar um ficheiro para importar.",
@@ -428,7 +428,7 @@
     "message": "Visite o nosso site"
   },
   "welcome": {
-    "message": "Bem-vindo ao Neeo Wallet"
+    "message": "Bem-vindo ao ISAB Wallet"
   },
   "youSign": {
     "message": "Está a assinar"

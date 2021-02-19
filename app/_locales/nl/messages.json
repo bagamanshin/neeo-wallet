@@ -19,7 +19,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Neeo Wallet",
+    "message": "ISAB Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -41,7 +41,7 @@
     "message": "Gebruik Blockies Identicon"
   },
   "builtInCalifornia": {
-    "message": "Neeo Wallet  is ontworpen en gebouwd in Californië."
+    "message": "ISAB Wallet  is ontworpen en gebouwd in Californië."
   },
   "buyCoinSwitch": {
     "message": "Koop op CoinSwitch"
@@ -172,7 +172,7 @@
     "message": "Account importeren"
   },
   "importAccountMsg": {
-    "message": " Geïmporteerde accounts worden niet gekoppeld aan de seedphrase van uw oorspronkelijk gemaakte Neeo Wallet-account. Meer informatie over geïmporteerde accounts"
+    "message": " Geïmporteerde accounts worden niet gekoppeld aan de seedphrase van uw oorspronkelijk gemaakte ISAB Wallet-account. Meer informatie over geïmporteerde accounts"
   },
   "imported": {
     "message": "geïmporteerde",
@@ -225,7 +225,7 @@
     "message": "Bericht"
   },
   "metamaskDescription": {
-    "message": "Neeo Wallet  is een veilige identiteitskluis voor Ethereum."
+    "message": "ISAB Wallet  is een veilige identiteitskluis voor Ethereum."
   },
   "mustSelectOne": {
     "message": "Moet ten minste één token selecteren."
@@ -234,7 +234,7 @@
     "message": "Mijn accounts"
   },
   "needEtherInWallet": {
-    "message": "Om te communiceren met gedecentraliseerde applicaties met Neeo Wallet, heb je Ether nodig in je portemonnee."
+    "message": "Om te communiceren met gedecentraliseerde applicaties met ISAB Wallet, heb je Ether nodig in je portemonnee."
   },
   "needImportFile": {
     "message": "U moet een bestand selecteren om te importeren.",
@@ -418,7 +418,7 @@
     "message": "Bezoek onze website"
   },
   "welcome": {
-    "message": "Welkom bij Neeo Wallet"
+    "message": "Welkom bij ISAB Wallet"
   },
   "youSign": {
     "message": "U ondertekent"

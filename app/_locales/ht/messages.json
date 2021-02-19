@@ -21,7 +21,7 @@
     "message": "aktivite ki fèt"
   },
   "addAcquiredTokens": {
-    "message": "Ajoute tokens yo ou te achte lè l sèvi avèk Neeo Wallet"
+    "message": "Ajoute tokens yo ou te achte lè l sèvi avèk ISAB Wallet"
   },
   "addSuggestedTokens": {
     "message": "Ajoute Token Yo Sikjere W"
@@ -40,7 +40,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Neeo Wallet",
+    "message": "ISAB Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -74,7 +74,7 @@
     "message": "Navigatè ou a pa sipòte..."
   },
   "builtInCalifornia": {
-    "message": "Neeo Wallet  fèt e bati nan California."
+    "message": "ISAB Wallet  fèt e bati nan California."
   },
   "buyCoinSwitch": {
     "message": "Achte sou CoinSwitch"
@@ -92,7 +92,7 @@
     "message": "Anilasyon Gaz Chaj"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Ou bezwen sèvi ak Neeo Wallet sou Google Chrome yo nan lòd yo konekte sou Hardware Wallet."
+    "message": "Ou bezwen sèvi ak ISAB Wallet sou Google Chrome yo nan lòd yo konekte sou Hardware Wallet."
   },
   "close": {
     "message": "Fèmen"
@@ -269,7 +269,7 @@
     "message": "Materyèl Wallet konekte"
   },
   "hardwareWalletsMsg": {
-    "message": "Chwazi yon Materyèl Wallet ou ta renmen itilize ak Neeo Wallet"
+    "message": "Chwazi yon Materyèl Wallet ou ta renmen itilize ak ISAB Wallet"
   },
   "havingTroubleConnecting": {
     "message": "Èske w gen pwoblèm pou konekte?"
@@ -295,7 +295,7 @@
     "message": "Pòte Kont"
   },
   "importAccountMsg": {
-    "message": " Kont pòte pa pral asosye avèk orijinal ou te kreye nan kont Neeo Wallet seed fraz. Aprann plis sou kont enpòte "
+    "message": " Kont pòte pa pral asosye avèk orijinal ou te kreye nan kont ISAB Wallet seed fraz. Aprann plis sou kont enpòte "
   },
   "importUsingSeed": {
     "message": "Pòte lè sèvi avèk seed fraz"
@@ -369,10 +369,10 @@
     "message": "Mesaje"
   },
   "metamaskDescription": {
-    "message": "Neeo Wallet  sekirize idantite pou Ethereum."
+    "message": "ISAB Wallet  sekirize idantite pou Ethereum."
   },
   "metamaskVersion": {
-    "message": "Neeo Wallet  Vèsyon"
+    "message": "ISAB Wallet  Vèsyon"
   },
   "mustSelectOne": {
     "message": "Ou dwe chwazi omwen 1 token."
@@ -381,7 +381,7 @@
     "message": "Kont mwen"
   },
   "needEtherInWallet": {
-    "message": "Pou kominike avèk aplikasyon desantralize ou dwe itilize Neeo Wallet, ou pral bezwen Ether nan Wallet ou."
+    "message": "Pou kominike avèk aplikasyon desantralize ou dwe itilize ISAB Wallet, ou pral bezwen Ether nan Wallet ou."
   },
   "needImportFile": {
     "message": "Ou dwe chwazi yon dosye pou enpòte.",
@@ -586,7 +586,7 @@
     "message": "Chwazi yon kont"
   },
   "selectAnAccountHelp": {
-    "message": "Chwazi kont pou wè nan Neeo Wallet"
+    "message": "Chwazi kont pou wè nan ISAB Wallet"
   },
   "selectCurrency": {
     "message": "Chwazi Lajan"
@@ -782,7 +782,7 @@
     "message": "Bous Seed"
   },
   "welcome": {
-    "message": "Byenveni nan Neeo Wallet"
+    "message": "Byenveni nan ISAB Wallet"
   },
   "welcomeBack": {
     "message": "Bon Retou!"
